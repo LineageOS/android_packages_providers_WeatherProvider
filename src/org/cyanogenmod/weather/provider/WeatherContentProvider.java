@@ -31,7 +31,6 @@ import cyanogenmod.weather.WeatherInfo.DayForecast;
 import java.util.ArrayList;
 
 import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CITY;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CITY_ID;
 import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION;
 import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION_CODE;
 import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_HUMIDITY;
@@ -45,6 +44,8 @@ import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_COND
 import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_CONDITION_CODE;
 import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_HIGH;
 import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_LOW;
+import static cyanogenmod.providers.WeatherContract.WeatherColumns.TODAYS_HIGH_TEMPERATURE;
+import static cyanogenmod.providers.WeatherContract.WeatherColumns.TODAYS_LOW_TEMPERATURE;
 
 public class WeatherContentProvider extends ContentProvider {
 
@@ -53,7 +54,6 @@ public class WeatherContentProvider extends ContentProvider {
     private static final int URI_TYPE_FORECAST = 3;
 
     private static final String[] PROJECTION_CURRENT = new String[] {
-            CURRENT_CITY_ID,
             CURRENT_CITY,
             CURRENT_CONDITION,
             CURRENT_CONDITION_CODE,
@@ -63,6 +63,8 @@ public class WeatherContentProvider extends ContentProvider {
             CURRENT_WIND_SPEED_UNIT,
             CURRENT_TEMPERATURE,
             CURRENT_TEMPERATURE_UNIT,
+            TODAYS_HIGH_TEMPERATURE,
+            TODAYS_LOW_TEMPERATURE,
             CURRENT_TIMESTAMP
     };
 
@@ -73,7 +75,6 @@ public class WeatherContentProvider extends ContentProvider {
     };
 
     private static final String[] PROJECTION_CURRENT_AND_FORECAST = new String[] {
-            CURRENT_CITY_ID,
             CURRENT_CITY,
             CURRENT_CONDITION,
             CURRENT_CONDITION_CODE,
@@ -83,6 +84,8 @@ public class WeatherContentProvider extends ContentProvider {
             CURRENT_WIND_SPEED_UNIT,
             CURRENT_TEMPERATURE,
             CURRENT_TEMPERATURE_UNIT,
+            TODAYS_HIGH_TEMPERATURE,
+            TODAYS_LOW_TEMPERATURE,
             CURRENT_TIMESTAMP,
             FORECAST_LOW,
             FORECAST_HIGH,
@@ -123,7 +126,6 @@ public class WeatherContentProvider extends ContentProvider {
             if (projectionType!=URI_TYPE_FORECAST) {
                 // current
                 result.newRow()
-                        .add(CURRENT_CITY_ID, mCachedWeatherInfo.getCityId())
                         .add(CURRENT_CITY, mCachedWeatherInfo.getCity())
                         .add(CURRENT_CONDITION, mapWeatherCodeToString(mCachedWeatherInfo
                                 .getConditionCode()))
@@ -134,6 +136,8 @@ public class WeatherContentProvider extends ContentProvider {
                         .add(CURRENT_WIND_SPEED_UNIT, mCachedWeatherInfo.getWindSpeedUnit())
                         .add(CURRENT_TEMPERATURE, mCachedWeatherInfo.getTemperature())
                         .add(CURRENT_TEMPERATURE_UNIT, mCachedWeatherInfo.getTemperatureUnit())
+                        .add(TODAYS_HIGH_TEMPERATURE, mCachedWeatherInfo.getTodaysHigh())
+                        .add(TODAYS_LOW_TEMPERATURE, mCachedWeatherInfo.getTodaysLow())
                         .add(CURRENT_TIMESTAMP, mCachedWeatherInfo.getTimestamp());
             }
 
@@ -188,27 +192,27 @@ public class WeatherContentProvider extends ContentProvider {
                 ArrayList<DayForecast> dayForecasts = new ArrayList<>(contentValuesCount - 1);
 
                 for (int indx = 1; indx < contentValuesCount; indx++) {
-                    dayForecasts.add(new DayForecast.Builder()
-                            .setLow(contentValues[indx].getAsFloat(FORECAST_LOW))
-                            .setHigh(contentValues[indx].getAsFloat(FORECAST_HIGH))
-                            .setWeatherCondition(
-                                    contentValues[indx].getAsInteger(FORECAST_CONDITION_CODE))
+                    dayForecasts.add(new DayForecast.Builder(
+                                contentValues[indx].getAsInteger(FORECAST_CONDITION_CODE))
+                            .setLow(contentValues[indx].getAsDouble(FORECAST_LOW))
+                            .setHigh(contentValues[indx].getAsDouble(FORECAST_HIGH))
                             .build());
                 }
 
                 //First row is ALWAYS current weather
                 mCachedWeatherInfo = new WeatherInfo.Builder(
-                        contentValues[0].getAsLong(CURRENT_TIMESTAMP))
-                        .setCity(contentValues[0].getAsString(CURRENT_CITY_ID),
-                                contentValues[0].getAsString(CURRENT_CITY))
+                            contentValues[0].getAsString(CURRENT_CITY),
+                                contentValues[0].getAsDouble(CURRENT_TEMPERATURE),
+                                    contentValues[0].getAsInteger(CURRENT_TEMPERATURE_UNIT))
                         .setWeatherCondition(contentValues[0].getAsInteger(CURRENT_CONDITION_CODE))
                         .setForecast(dayForecasts)
-                        .setHumidity(contentValues[0].getAsFloat(CURRENT_HUMIDITY))
-                        .setTemperature(contentValues[0].getAsFloat(CURRENT_TEMPERATURE),
-                                contentValues[0].getAsInteger(CURRENT_TEMPERATURE_UNIT))
-                        .setWind(contentValues[0].getAsFloat(CURRENT_WIND_SPEED),
-                                contentValues[0].getAsFloat(CURRENT_WIND_DIRECTION),
+                        .setHumidity(contentValues[0].getAsDouble(CURRENT_HUMIDITY))
+                        .setWind(contentValues[0].getAsDouble(CURRENT_WIND_SPEED),
+                                contentValues[0].getAsDouble(CURRENT_WIND_DIRECTION),
                                     contentValues[0].getAsInteger(CURRENT_WIND_SPEED_UNIT))
+                        .setTimestamp(contentValues[0].getAsLong(CURRENT_TIMESTAMP))
+                        .setTodaysHigh(contentValues[0].getAsDouble(TODAYS_HIGH_TEMPERATURE))
+                        .setTodaysLow(contentValues[0].getAsDouble(TODAYS_LOW_TEMPERATURE))
                         .build();
 
             }
