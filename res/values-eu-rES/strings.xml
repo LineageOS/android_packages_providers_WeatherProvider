@@ -16,13 +16,59 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Eguraldi hornitzailea</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">Tornadoa</string>
+  <string name="weather_1">Ekaitz tropikala</string>
+  <string name="weather_2">Urakana</string>
+  <string name="weather_3">Trumoi-ekaitz larriak</string>
+  <string name="weather_4">Trumoi-ekaitzak</string>
+  <string name="weather_5">Euria eta elurra</string>
+  <string name="weather_6">Euria eta elur bustia</string>
+  <string name="weather_7">Elurra eta elur bustia</string>
+  <string name="weather_8">Zirimiri hotza</string>
+  <string name="weather_9">Zirimiria</string>
+  <string name="weather_10">Euri hotza</string>
+  <string name="weather_11">Zaparradak</string>
+  <string name="weather_12">Elur malutak</string>
+  <string name="weather_13">Elurte arinak</string>
+  <string name="weather_14">Elurte haizetsua</string>
+  <string name="weather_15">Elurra</string>
+  <string name="weather_16">Kazkabarra</string>
+  <string name="weather_17">Elur bustia</string>
+  <string name="weather_18">Hautsa</string>
+  <string name="weather_19">Lainotsua</string>
+  <string name="weather_20">Behe-lainoa</string>
+  <string name="weather_21">Kea</string>
+  <string name="weather_22">Enbata</string>
+  <string name="weather_23">Haizetsua</string>
+  <string name="weather_24">Hotza</string>
+  <string name="weather_25">Hodeitsua</string>
   <!-- Night -->
+  <string name="weather_26">Hodeitsua gehienbat</string>
   <!-- Day -->
+  <string name="weather_27">Hodeitsua gehienbat</string>
   <!-- Night -->
+  <string name="weather_28">Partzialki hodeitsua</string>
   <!-- Day -->
+  <string name="weather_29">Partzialki hodeitsua</string>
   <!-- Night -->
+  <string name="weather_30">Garbitu</string>
+  <string name="weather_31">Eguzkitsua</string>
   <!-- Night -->
+  <string name="weather_32">Ona</string>
   <!-- Day -->
+  <string name="weather_33">Ona</string>
+  <string name="weather_34">Euria eta kazkabarra</string>
+  <string name="weather_35">Beroa</string>
+  <string name="weather_36">Trumoi-ekaitza isolatuak</string>
+  <string name="weather_37">Trumoi-ekaitza tartekatuak</string>
+  <string name="weather_38">Zaparradak tarteka</string>
+  <string name="weather_39">Elurte gogorrak</string>
+  <string name="weather_40">Elurteak tarteka</string>
+  <string name="weather_41">Partzialki hodeitsua</string>
+  <string name="weather_42">Ekaitzak</string>
+  <string name="weather_43">Elurteak</string>
+  <string name="weather_44">Ekaitza isolatuak</string>
   <!-- Forecast unavailable -->
 </resources>
