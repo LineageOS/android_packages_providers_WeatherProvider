@@ -29,6 +29,7 @@ import cyanogenmod.weather.WeatherInfo;
 import cyanogenmod.weather.WeatherInfo.DayForecast;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CITY;
 import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION;
@@ -189,32 +190,50 @@ public class WeatherContentProvider extends ContentProvider {
         if (match == URI_TYPE_CURRENT_AND_FORECAST) {
             int contentValuesCount = contentValues.length;
             synchronized (WeatherContentProvider.this) {
-                ArrayList<DayForecast> dayForecasts = new ArrayList<>(contentValuesCount - 1);
+                List<DayForecast> dayForecasts = new ArrayList<>(contentValuesCount - 1);
 
                 for (int indx = 1; indx < contentValuesCount; indx++) {
-                    dayForecasts.add(new DayForecast.Builder(
-                                contentValues[indx].getAsInteger(FORECAST_CONDITION_CODE))
-                            .setLow(contentValues[indx].getAsDouble(FORECAST_LOW))
-                            .setHigh(contentValues[indx].getAsDouble(FORECAST_HIGH))
-                            .build());
+                    DayForecast.Builder forecastBuilder
+                            = new DayForecast.Builder(contentValues[indx]
+                                .getAsInteger(FORECAST_CONDITION_CODE));
+
+                    double low = contentValues[indx].getAsDouble(FORECAST_LOW);
+                    if (!Double.isNaN(low)) forecastBuilder.setLow(low);
+
+                    double high = contentValues[indx].getAsDouble(FORECAST_HIGH);
+                    if (!Double.isNaN(high)) forecastBuilder.setHigh(high);
+
+                    dayForecasts.add(forecastBuilder.build());
                 }
 
                 //First row is ALWAYS current weather
-                mCachedWeatherInfo = new WeatherInfo.Builder(
-                            contentValues[0].getAsString(CURRENT_CITY),
-                                contentValues[0].getAsDouble(CURRENT_TEMPERATURE),
-                                    contentValues[0].getAsInteger(CURRENT_TEMPERATURE_UNIT))
-                        .setWeatherCondition(contentValues[0].getAsInteger(CURRENT_CONDITION_CODE))
-                        .setForecast(dayForecasts)
-                        .setHumidity(contentValues[0].getAsDouble(CURRENT_HUMIDITY))
-                        .setWind(contentValues[0].getAsDouble(CURRENT_WIND_SPEED),
-                                contentValues[0].getAsDouble(CURRENT_WIND_DIRECTION),
-                                    contentValues[0].getAsInteger(CURRENT_WIND_SPEED_UNIT))
-                        .setTimestamp(contentValues[0].getAsLong(CURRENT_TIMESTAMP))
-                        .setTodaysHigh(contentValues[0].getAsDouble(TODAYS_HIGH_TEMPERATURE))
-                        .setTodaysLow(contentValues[0].getAsDouble(TODAYS_LOW_TEMPERATURE))
-                        .build();
 
+                WeatherInfo.Builder builder = new WeatherInfo.Builder(
+                        contentValues[0].getAsString(CURRENT_CITY),
+                        contentValues[0].getAsDouble(CURRENT_TEMPERATURE),
+                        contentValues[0].getAsInteger(CURRENT_TEMPERATURE_UNIT))
+                        .setTimestamp(contentValues[0].getAsLong(CURRENT_TIMESTAMP))
+                        .setWeatherCondition(contentValues[0].getAsInteger(CURRENT_CONDITION_CODE))
+                        .setForecast(dayForecasts);
+
+                double humidity = contentValues[0].getAsDouble(CURRENT_HUMIDITY);
+                if (!Double.isNaN(humidity)) builder.setHumidity(humidity);
+
+                double high = contentValues[0].getAsDouble(TODAYS_HIGH_TEMPERATURE);
+                if (!Double.isNaN(high)) builder.setTodaysHigh(high);
+
+                double low = contentValues[0].getAsDouble(TODAYS_LOW_TEMPERATURE);
+                if (!Double.isNaN(low)) builder.setTodaysLow(low);
+
+                double windSpeed = contentValues[0].getAsDouble(CURRENT_WIND_SPEED);
+                double windDirection = contentValues[0].getAsDouble(CURRENT_WIND_DIRECTION);
+                int windSpeedUnit = contentValues[0].getAsInteger(CURRENT_WIND_SPEED_UNIT);
+
+                if (!Double.isNaN(windSpeed) && !Double.isNaN(windDirection)) {
+                    builder.setWind(windSpeed, windDirection, windSpeedUnit);
+                }
+
+                mCachedWeatherInfo = builder.build();
             }
             getContext().getContentResolver().notifyChange(
                     WeatherColumns.CURRENT_AND_FORECAST_WEATHER_URI, null);
