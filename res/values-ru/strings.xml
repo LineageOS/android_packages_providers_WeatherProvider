@@ -17,11 +17,26 @@
 -->
 <resources>
   <!-- Weather - Weather codes -->
+  <string name="weather_1">Шторм</string>
+  <string name="weather_2">Ураган</string>
+  <string name="weather_3">Сильные грозы</string>
+  <string name="weather_4">Грозы</string>
+  <string name="weather_5">Дождь со снегом</string>
+  <string name="weather_6">Дождь с мокрым снегом</string>
+  <string name="weather_7">Мокрый снег</string>
+  <string name="weather_9">Мелкий дождь</string>
+  <string name="weather_10">Град</string>
+  <string name="weather_11">Ливень</string>
+  <string name="weather_12">Снег с дождём</string>
+  <string name="weather_13">Небольшой снег</string>
+  <string name="weather_14">Метель</string>
+  <string name="weather_24">Холодно</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
+  <string name="weather_30">Ясно</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Forecast unavailable -->

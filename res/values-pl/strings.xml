@@ -22,6 +22,7 @@
   <string name="weather_1">Burza tropikalna</string>
   <string name="weather_2">Huragan</string>
   <string name="weather_3">Gwałtowne burze</string>
+  <string name="weather_4">Burze z piorunami</string>
   <string name="weather_5">Deszcz ze śniegiem</string>
   <string name="weather_6">Deszcz ze śniegiem</string>
   <string name="weather_7">Deszcz ze śniegiem</string>
@@ -35,6 +36,7 @@
   <string name="weather_15">Śnieg</string>
   <string name="weather_16">Grad</string>
   <string name="weather_17">Deszcz ze śniegiem</string>
+  <string name="weather_18">Zapylenie</string>
   <string name="weather_19">Mgliście</string>
   <string name="weather_20">Zamglenia</string>
   <string name="weather_21">Zadymienie</string>
