@@ -16,13 +16,58 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Fornidor meteorolóxicu</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">Torbolín</string>
+  <string name="weather_1">Trona tropical</string>
+  <string name="weather_2">Furacán</string>
+  <string name="weather_3">Torba</string>
+  <string name="weather_4">Trones</string>
+  <string name="weather_5">Agua y ñeve</string>
+  <string name="weather_6">Agua y aguañeve</string>
+  <string name="weather_7">Ñeve y aguañeve</string>
+  <string name="weather_8">Orbayu xelao</string>
+  <string name="weather_9">Orbayu</string>
+  <string name="weather_10">Lloviu xelao</string>
+  <string name="weather_11">Lloviu</string>
+  <string name="weather_12">Falopos</string>
+  <string name="weather_13">Ñevisca</string>
+  <string name="weather_14">Bastiáu ñeve</string>
+  <string name="weather_15">Ñeve</string>
+  <string name="weather_16">Xarazu</string>
+  <string name="weather_17">Aguañeve</string>
+  <string name="weather_18">Polvu</string>
+  <string name="weather_20">Borrina</string>
+  <string name="weather_21">Fumu</string>
+  <string name="weather_22">Con borrasca</string>
+  <string name="weather_23">Airoso</string>
+  <string name="weather_24">Frío</string>
+  <string name="weather_25">Ñuble</string>
   <!-- Night -->
+  <string name="weather_26">Mayorm. ñuble</string>
   <!-- Day -->
+  <string name="weather_27">Mostly Cloudy</string>
   <!-- Night -->
+  <string name="weather_28">Parc. ñuble</string>
   <!-- Day -->
+  <string name="weather_29">Parc. ñuble</string>
   <!-- Night -->
+  <string name="weather_30">Estenao</string>
+  <string name="weather_31">Soleyero</string>
   <!-- Night -->
+  <string name="weather_32">Estenao</string>
   <!-- Day -->
+  <string name="weather_33">Estenao</string>
+  <string name="weather_34">Agua y xarazu</string>
+  <string name="weather_35">Caloroso</string>
+  <string name="weather_36">Torm. eléctriques</string>
+  <string name="weather_37">Torm. eléc. aisllaes</string>
+  <string name="weather_38">Lluvies disperses</string>
+  <string name="weather_39">Ñevaes fuertes</string>
+  <string name="weather_40">Ñevaes disperses</string>
+  <string name="weather_41">Parc. ñuble</string>
+  <string name="weather_42">Bastiaos</string>
+  <string name="weather_43">Agua y ñeve</string>
+  <string name="weather_44">Bastiaos aisllaos</string>
   <!-- Forecast unavailable -->
 </resources>
