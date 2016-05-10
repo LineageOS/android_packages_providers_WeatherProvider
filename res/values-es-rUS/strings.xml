@@ -16,13 +16,59 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Proveedor del clima</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">Tornado</string>
+  <string name="weather_1">Tormenta tropical</string>
+  <string name="weather_2">Huracán</string>
+  <string name="weather_3">Tormentas intensas</string>
+  <string name="weather_4">Tormentas eléctricas</string>
+  <string name="weather_5">Lluvia y nieve</string>
+  <string name="weather_6">Lluvia y aguanieve</string>
+  <string name="weather_7">Nieve y aguanieve</string>
+  <string name="weather_8">Llovizna helada</string>
+  <string name="weather_9">Llovizna</string>
+  <string name="weather_10">Lluvia helada</string>
+  <string name="weather_11">Chubascos</string>
+  <string name="weather_12">Copos de nieve</string>
+  <string name="weather_13">Nieve ligera</string>
+  <string name="weather_14">Ventisca con nieve</string>
+  <string name="weather_15">Nieve</string>
+  <string name="weather_16">Granizo</string>
+  <string name="weather_17">Aguanieve</string>
+  <string name="weather_18">Polvo</string>
+  <string name="weather_19">Niebla</string>
+  <string name="weather_20">Neblina</string>
+  <string name="weather_21">Humo</string>
+  <string name="weather_22">Borrascoso</string>
+  <string name="weather_23">Ventoso</string>
+  <string name="weather_24">Frío</string>
+  <string name="weather_25">Nublado</string>
   <!-- Night -->
+  <string name="weather_26">Mayormente nublado</string>
   <!-- Day -->
+  <string name="weather_27">Mayormente nublado</string>
   <!-- Night -->
+  <string name="weather_28">Parcialmente nublado</string>
   <!-- Day -->
+  <string name="weather_29">Parcialmente nublado</string>
   <!-- Night -->
+  <string name="weather_30">Despejado</string>
+  <string name="weather_31">Soleado</string>
   <!-- Night -->
+  <string name="weather_32">Buen tiempo</string>
   <!-- Day -->
+  <string name="weather_33">Buen tiempo</string>
+  <string name="weather_34">Lluvia y granizo</string>
+  <string name="weather_35">Caluroso</string>
+  <string name="weather_36">Tormentas eléctricas aisladas</string>
+  <string name="weather_37">Tormentas eléctricas dispersas</string>
+  <string name="weather_38">Chubascos aislados</string>
+  <string name="weather_39">Fuertes nevadas</string>
+  <string name="weather_40">Chubascos con nieve dispersos</string>
+  <string name="weather_41">Parcialmente nublado</string>
+  <string name="weather_42">Chaparrones</string>
+  <string name="weather_43">Chubascos con nieve</string>
+  <string name="weather_44">Chaparrones aislados</string>
   <!-- Forecast unavailable -->
 </resources>

@@ -19,20 +19,20 @@
   <string name="app_name">Provedor de tempo</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
-  <string name="weather_1">Tempestade Tropical</string>
+  <string name="weather_1">Tempestade tropical</string>
   <string name="weather_2">Furacão</string>
-  <string name="weather_3">Tempestades Fortes</string>
+  <string name="weather_3">Tempestades fortes</string>
   <string name="weather_4">Tempestades</string>
-  <string name="weather_5">Chuva e Neve Misturados</string>
-  <string name="weather_6">Chuva e Geada Misturadas</string>
-  <string name="weather_7">Neve e Geada Misturadas</string>
-  <string name="weather_8">Chuvisco Congelante</string>
+  <string name="weather_5">Chuva e neve misturadas</string>
+  <string name="weather_6">Chuva e geada misturadas</string>
+  <string name="weather_7">Neve e geada misturadas</string>
+  <string name="weather_8">Chuvisco congelante</string>
   <string name="weather_9">Chuvisco</string>
-  <string name="weather_10">Chuva Congelante</string>
+  <string name="weather_10">Chuva congelante</string>
   <string name="weather_11">Chuva</string>
-  <string name="weather_12">Flocos de Neve</string>
-  <string name="weather_13">Chuva de Neve Fraca</string>
-  <string name="weather_14">Tempestade de Neve</string>
+  <string name="weather_12">Flocos de neve</string>
+  <string name="weather_13">Chuva de neve fraca</string>
+  <string name="weather_14">Tempestade de neve</string>
   <string name="weather_15">Neve</string>
   <string name="weather_16">Granizo</string>
   <string name="weather_17">Geada</string>
@@ -40,18 +40,18 @@
   <string name="weather_19">Névoa</string>
   <string name="weather_20">Neblina</string>
   <string name="weather_21">Enfumaçado</string>
-  <string name="weather_22">Ventos Fortes</string>
+  <string name="weather_22">Ventos fortes</string>
   <string name="weather_23">Ventania</string>
   <string name="weather_24">Frio</string>
   <string name="weather_25">Nublado</string>
   <!-- Night -->
-  <string name="weather_26">Maior Parte Nublado</string>
+  <string name="weather_26">Predominantemente nublado</string>
   <!-- Day -->
-  <string name="weather_27">Maior Parte Nublado</string>
+  <string name="weather_27">Predominantemente nublado</string>
   <!-- Night -->
-  <string name="weather_28">Parcialmente Nublado</string>
+  <string name="weather_28">Parcialmente nublado</string>
   <!-- Day -->
-  <string name="weather_29">Parcialmente Nublado</string>
+  <string name="weather_29">Parcialmente nublado</string>
   <!-- Night -->
   <string name="weather_30">Limpar</string>
   <string name="weather_31">Ensolarado</string>
@@ -59,16 +59,16 @@
   <string name="weather_32">Bom</string>
   <!-- Day -->
   <string name="weather_33">Bom</string>
-  <string name="weather_34">Chuva e Granizo Misturados</string>
+  <string name="weather_34">Chuva e granizo misturados</string>
   <string name="weather_35">Quente</string>
-  <string name="weather_36">Tempestades Isoladas</string>
-  <string name="weather_37">Tempestades Dispersas</string>
-  <string name="weather_38">Chuvas Dispersas</string>
-  <string name="weather_39">Nevasca Forte</string>
-  <string name="weather_40">Neve Dispersa</string>
-  <string name="weather_41">Parcialmente Nublado</string>
-  <string name="weather_42">Chuvas com Trovoadas</string>
-  <string name="weather_43">Chuva de Neve</string>
-  <string name="weather_44">Chuvas com Trovoadas Isoladas</string>
+  <string name="weather_36">Tempestades isoladas</string>
+  <string name="weather_37">Tempestades dispersas</string>
+  <string name="weather_38">Chuvas dispersas</string>
+  <string name="weather_39">Nevasca forte</string>
+  <string name="weather_40">Neve dispersa</string>
+  <string name="weather_41">Parcialmente nublado</string>
+  <string name="weather_42">Chuvas com trovoadas</string>
+  <string name="weather_43">Chuva de neve</string>
+  <string name="weather_44">Chuvas com trovoadas isoladas</string>
   <!-- Forecast unavailable -->
 </resources>
