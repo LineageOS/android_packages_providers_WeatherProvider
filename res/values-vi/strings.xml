@@ -16,13 +16,59 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Nhà cung cấp thời tiết</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">Lốc xoáy</string>
+  <string name="weather_1">Bão nhiệt đới</string>
+  <string name="weather_2">Bão</string>
+  <string name="weather_3">Giông mạnh</string>
+  <string name="weather_4">Giông</string>
+  <string name="weather_5">Mưa kèm tuyết</string>
+  <string name="weather_6">Mưa kèm mưa đá</string>
+  <string name="weather_7">Tuyết kèm mưa đá</string>
+  <string name="weather_8">Mưa phùn lạnh giá</string>
+  <string name="weather_9">Mưa phùn</string>
+  <string name="weather_10">Mưa lạnh</string>
+  <string name="weather_11">Mưa rào</string>
+  <string name="weather_12">Tuyết rơi nhẹ kèm gió</string>
+  <string name="weather_13">Mưa tuyết nhẹ</string>
+  <string name="weather_14">Tuyết cùng gió luân vũ</string>
+  <string name="weather_15">Tuyết</string>
+  <string name="weather_16">Mưa đá</string>
+  <string name="weather_17">Mưa tuyết</string>
+  <string name="weather_18">Bụi</string>
+  <string name="weather_19">Sương mù</string>
+  <string name="weather_20">Âm u</string>
+  <string name="weather_21">Khói</string>
+  <string name="weather_22">Gió giật</string>
+  <string name="weather_23">Gió</string>
+  <string name="weather_24">Lạnh</string>
+  <string name="weather_25">Âm u</string>
   <!-- Night -->
+  <string name="weather_26">Nhiều mây</string>
   <!-- Day -->
+  <string name="weather_27">Nhiều mây</string>
   <!-- Night -->
+  <string name="weather_28">Ít mây</string>
   <!-- Day -->
+  <string name="weather_29">Ít mây</string>
   <!-- Night -->
+  <string name="weather_30">Quang mây</string>
+  <string name="weather_31">Nắng</string>
   <!-- Night -->
+  <string name="weather_32">Thời tiết tốt</string>
   <!-- Day -->
+  <string name="weather_33">Thời tiết tốt</string>
+  <string name="weather_34">Mưa và mưa đá</string>
+  <string name="weather_35">Nóng</string>
+  <string name="weather_36">Giông cục bộ</string>
+  <string name="weather_37">Giông rải rác</string>
+  <string name="weather_38">Mưa rào rải rác</string>
+  <string name="weather_39">Tuyết rơi nhiều</string>
+  <string name="weather_40">Mưa tuyết rải rác</string>
+  <string name="weather_41">Ít mây</string>
+  <string name="weather_42">Mưa rào có sấm sét</string>
+  <string name="weather_43">Mưa có tuyết</string>
+  <string name="weather_44">Mưa rào có sấm sét cục bộ</string>
   <!-- Forecast unavailable -->
 </resources>

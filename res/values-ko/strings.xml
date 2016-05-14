@@ -16,13 +16,59 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">날씨 공급자</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">토네이도</string>
+  <string name="weather_1">열대 폭풍우</string>
+  <string name="weather_2">허리케인</string>
+  <string name="weather_3">강한 천둥 번개</string>
+  <string name="weather_4">천둥 번개</string>
+  <string name="weather_5">진눈깨비</string>
+  <string name="weather_6">진눈깨비</string>
+  <string name="weather_7">진눈깨비와 눈</string>
+  <string name="weather_8">찬 이슬비</string>
+  <string name="weather_9">이슬비</string>
+  <string name="weather_10">차가운 비</string>
+  <string name="weather_11">소나기</string>
+  <string name="weather_12">눈발</string>
+  <string name="weather_13">소낙눈</string>
+  <string name="weather_14">날리는 눈</string>
+  <string name="weather_15">눈</string>
+  <string name="weather_16">우박</string>
+  <string name="weather_17">진눈깨비</string>
+  <string name="weather_18">먼지</string>
+  <string name="weather_19">안개</string>
+  <string name="weather_20">연무</string>
+  <string name="weather_21">짙은 안개</string>
+  <string name="weather_22">강풍</string>
+  <string name="weather_23">바람</string>
+  <string name="weather_24">추움</string>
+  <string name="weather_25">흐림</string>
   <!-- Night -->
+  <string name="weather_26">대체로 흐림</string>
   <!-- Day -->
+  <string name="weather_27">대체로 흐림</string>
   <!-- Night -->
+  <string name="weather_28">일부분 흐림</string>
   <!-- Day -->
+  <string name="weather_29">일부분 흐림</string>
   <!-- Night -->
+  <string name="weather_30">맑음</string>
+  <string name="weather_31">맑음</string>
   <!-- Night -->
+  <string name="weather_32">온화함</string>
   <!-- Day -->
+  <string name="weather_33">온화함</string>
+  <string name="weather_34">비와 우박</string>
+  <string name="weather_35">더위</string>
+  <string name="weather_36">집중 천둥 번개</string>
+  <string name="weather_37">흩어진 천둥 번개</string>
+  <string name="weather_38">흩어진 소나기</string>
+  <string name="weather_39">폭설</string>
+  <string name="weather_40">흩어진 소나기눈</string>
+  <string name="weather_41">일부분 흐림</string>
+  <string name="weather_42">뇌우</string>
+  <string name="weather_43">소낙눈</string>
+  <string name="weather_44">집중 뇌우</string>
   <!-- Forecast unavailable -->
 </resources>

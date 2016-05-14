@@ -16,13 +16,59 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">موفر الطقس</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">عاصفة</string>
+  <string name="weather_1">عاصفة استوائية</string>
+  <string name="weather_2">إعصار</string>
+  <string name="weather_3">عواصف رعدية شديدة</string>
+  <string name="weather_4">عواصف رعدية</string>
+  <string name="weather_5">مطر وثلج ممزوج</string>
+  <string name="weather_6">أمطار ممزوجة بالثلوج</string>
+  <string name="weather_7">ثلوج وأمطار ممزوجة بالثلوج</string>
+  <string name="weather_8">قطرات متجمده</string>
+  <string name="weather_9">قطرات</string>
+  <string name="weather_10">مطر متجمد</string>
+  <string name="weather_11">رخات مطر</string>
+  <string name="weather_12">رياح ثلجية</string>
+  <string name="weather_13">رخات ثلجية خفيفة</string>
+  <string name="weather_14">هبوب ثلوج</string>
+  <string name="weather_15">ثلج</string>
+  <string name="weather_16">أمطار باردة</string>
+  <string name="weather_17">مطر متجمد</string>
+  <string name="weather_18">أتربة</string>
+  <string name="weather_19">ضبابي</string>
+  <string name="weather_20">غائم</string>
+  <string name="weather_21">مشبع بالدخان</string>
+  <string name="weather_22">عاصف</string>
+  <string name="weather_23">عاصف</string>
+  <string name="weather_24">بارد</string>
+  <string name="weather_25">غائم</string>
   <!-- Night -->
+  <string name="weather_26">غائم في معظمه</string>
   <!-- Day -->
+  <string name="weather_27">غائم في معظمه</string>
   <!-- Night -->
+  <string name="weather_28">غائم جزئياً</string>
   <!-- Day -->
+  <string name="weather_29">غائم جزئياً</string>
   <!-- Night -->
+  <string name="weather_30">صافي</string>
+  <string name="weather_31">مشمس</string>
   <!-- Night -->
+  <string name="weather_32">معتدل</string>
   <!-- Day -->
+  <string name="weather_33">معتدل</string>
+  <string name="weather_34">مطر ووابل مطر ممزوج</string>
+  <string name="weather_35">حار</string>
+  <string name="weather_36">عواصف رعدية متفرقة</string>
+  <string name="weather_37">عواصف رعدية متبددة</string>
+  <string name="weather_38">رخات مطر متفرقة</string>
+  <string name="weather_39">ثلوج كثيفة</string>
+  <string name="weather_40">رخات ثلوج متفرقة</string>
+  <string name="weather_41">غائم جزئياً</string>
+  <string name="weather_42">زخات مطر رعدية</string>
+  <string name="weather_43">زخات الثلج</string>
+  <string name="weather_44">وابل رعدي متفرق</string>
   <!-- Forecast unavailable -->
 </resources>

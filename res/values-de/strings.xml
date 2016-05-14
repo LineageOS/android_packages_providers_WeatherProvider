@@ -69,6 +69,6 @@
   <string name="weather_41">Teilweise bewölkt</string>
   <string name="weather_42">Gewitterschauer</string>
   <string name="weather_43">Schneeschauer</string>
-  <string name="weather_44">Vereinzelte Gewitter</string>
+  <string name="weather_44">Vereinzelte Gewitterschauer</string>
   <!-- Forecast unavailable -->
 </resources>

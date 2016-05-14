@@ -16,13 +16,59 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Weer verskaffer</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">Tornado</string>
+  <string name="weather_1">Tropiese storm</string>
+  <string name="weather_2">Orkaan</string>
+  <string name="weather_3">Ernstige donderstorms</string>
+  <string name="weather_4">Donderstorms</string>
+  <string name="weather_5">Gemengde reën en sneeu</string>
+  <string name="weather_6">Gemengde reën en ysreën</string>
+  <string name="weather_7">Gemengde sneeu en ysreën</string>
+  <string name="weather_8">Vriesende motreën</string>
+  <string name="weather_9">Motreën</string>
+  <string name="weather_10">Vriesende reën</string>
+  <string name="weather_11">Reënbuie</string>
+  <string name="weather_12">Sneeuvloeie</string>
+  <string name="weather_13">Ligte sneeu</string>
+  <string name="weather_14">Rondgewaaide sneeu</string>
+  <string name="weather_15">Sneeu</string>
+  <string name="weather_16">Hael</string>
+  <string name="weather_17">Ysreën</string>
+  <string name="weather_18">Stof</string>
+  <string name="weather_19">Mistig</string>
+  <string name="weather_20">Dynserig</string>
+  <string name="weather_21">Rokerig</string>
+  <string name="weather_22">Stormagtig</string>
+  <string name="weather_23">Winderig</string>
+  <string name="weather_24">Koud</string>
+  <string name="weather_25">Bewolk</string>
   <!-- Night -->
+  <string name="weather_26">Meestal bewolk</string>
   <!-- Day -->
+  <string name="weather_27">Meestal bewolk</string>
   <!-- Night -->
+  <string name="weather_28">Gedeeltelik bewolk</string>
   <!-- Day -->
+  <string name="weather_29">Gedeeltelik bewolk</string>
   <!-- Night -->
+  <string name="weather_30">Maak skoon</string>
+  <string name="weather_31">Sonnig</string>
   <!-- Night -->
+  <string name="weather_32">Mooiweer</string>
   <!-- Day -->
+  <string name="weather_33">Mooiweer</string>
+  <string name="weather_34">Gemengde reën en hael</string>
+  <string name="weather_35">Warm</string>
+  <string name="weather_36">Geïsoleerde Donderstorms</string>
+  <string name="weather_37">Verspreide donderstorms</string>
+  <string name="weather_38">Verspreide buie</string>
+  <string name="weather_39">Swaar sneeu</string>
+  <string name="weather_40">Verspreide sneeu</string>
+  <string name="weather_41">Gedeeltelik bewolk</string>
+  <string name="weather_42">Donderstorms</string>
+  <string name="weather_43">Sneeubuie</string>
+  <string name="weather_44">Geïsoleerde Donderstorms</string>
   <!-- Forecast unavailable -->
 </resources>

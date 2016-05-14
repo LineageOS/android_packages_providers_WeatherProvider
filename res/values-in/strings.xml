@@ -16,13 +16,59 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Penyedia Cuaca</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">Topan</string>
+  <string name="weather_1">Badai Tropis</string>
+  <string name="weather_2">Badai</string>
+  <string name="weather_3">Petir Besar</string>
+  <string name="weather_4">Badai Petir</string>
+  <string name="weather_5">Campuran Hujan dan Salju</string>
+  <string name="weather_6">Campuran Hujan dan Hujan Es</string>
+  <string name="weather_7">Campuran Salju dan Hujan Es</string>
+  <string name="weather_8">Gerimis Membeku</string>
+  <string name="weather_9">Gerimis</string>
+  <string name="weather_10">Hujan Membeku</string>
+  <string name="weather_11">Hujan ringan</string>
+  <string name="weather_12">Bersalju</string>
+  <string name="weather_13">Hujan Salju Ringan</string>
+  <string name="weather_14">Embusan Salju</string>
+  <string name="weather_15">Salju</string>
+  <string name="weather_16">Hujan es</string>
+  <string name="weather_17">Hujan es</string>
+  <string name="weather_18">Debu</string>
+  <string name="weather_19">Berkabut</string>
+  <string name="weather_20">Kabut</string>
+  <string name="weather_21">Berasap</string>
+  <string name="weather_22">Angin kencang</string>
+  <string name="weather_23">Berangin</string>
+  <string name="weather_24">Dingin</string>
+  <string name="weather_25">Berawan</string>
   <!-- Night -->
+  <string name="weather_26">Sebagian Besar Berawan</string>
   <!-- Day -->
+  <string name="weather_27">Sebagian Besar Berawan</string>
   <!-- Night -->
+  <string name="weather_28">Sebagian Berawan</string>
   <!-- Day -->
+  <string name="weather_29">Sebagian Berawan</string>
   <!-- Night -->
+  <string name="weather_30">Cerah</string>
+  <string name="weather_31">Cerah</string>
   <!-- Night -->
+  <string name="weather_32">Baik</string>
   <!-- Day -->
+  <string name="weather_33">Baik</string>
+  <string name="weather_34">Campuran Hujan dan Hujan Es</string>
+  <string name="weather_35">Panas</string>
+  <string name="weather_36">Hujan gerimis dengan petir yang terisolasi</string>
+  <string name="weather_37">Badai Petir Tersebar</string>
+  <string name="weather_38">Hujan Gerimis</string>
+  <string name="weather_39">Salju Berat</string>
+  <string name="weather_40">Hujan Gerimis</string>
+  <string name="weather_41">Sebagian Berawan</string>
+  <string name="weather_42">Petir disertai hujan</string>
+  <string name="weather_43">Salju Ringan</string>
+  <string name="weather_44">Hujan Gerimis dengan Petir Terisolasi</string>
   <!-- Forecast unavailable -->
 </resources>
