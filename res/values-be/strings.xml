@@ -16,7 +16,9 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Надвор’е</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">Тарнада</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
