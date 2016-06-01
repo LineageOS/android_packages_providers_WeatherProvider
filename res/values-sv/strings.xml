@@ -36,6 +36,7 @@
   <string name="weather_15">Snö</string>
   <string name="weather_16">Hagel</string>
   <string name="weather_17">Slask</string>
+  <string name="weather_18">Damm</string>
   <string name="weather_19">Dimmigt</string>
   <string name="weather_20">Dimma</string>
   <string name="weather_21">Rökigt</string>
@@ -68,5 +69,6 @@
   <string name="weather_41">Delvis molnigt</string>
   <string name="weather_42">Åskskurar</string>
   <string name="weather_43">Snöbyar</string>
+  <string name="weather_44">Enstaka åskskurar</string>
   <!-- Forecast unavailable -->
 </resources>

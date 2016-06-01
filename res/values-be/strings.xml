@@ -19,6 +19,11 @@
   <string name="app_name">Надвор’е</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">Тарнада</string>
+  <string name="weather_1">Шторм</string>
+  <string name="weather_2">Ураган</string>
+  <string name="weather_3">Моцная навальніца</string>
+  <string name="weather_4">Навальніца</string>
+  <string name="weather_8">Шэрань</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
