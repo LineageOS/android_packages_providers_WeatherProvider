@@ -24,12 +24,20 @@
   <string name="weather_3">Моцная навальніца</string>
   <string name="weather_4">Навальніца</string>
   <string name="weather_8">Шэрань</string>
+  <string name="weather_15">Снег</string>
+  <string name="weather_24">Холадна</string>
+  <string name="weather_25">Хмарна</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
+  <string name="weather_31">Сонечна</string>
   <!-- Night -->
+  <string name="weather_32">Лагодна</string>
   <!-- Day -->
+  <string name="weather_33">Лагодна</string>
+  <string name="weather_35">Спякотна</string>
+  <string name="weather_38">Магчымы навальніцы</string>
   <!-- Forecast unavailable -->
 </resources>
