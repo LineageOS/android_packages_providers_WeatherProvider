@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Provedor de tempo</string>
+  <string name="app_name">Fornecedor de tempo</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
   <string name="weather_1">Tempestade tropical</string>
