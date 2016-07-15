@@ -16,13 +16,59 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Wieder-Provider</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">Tornado</string>
+  <string name="weather_1">Tropesche Stuerm</string>
+  <string name="weather_2">Hurrikan</string>
+  <string name="weather_3">Hefteg Donnerwiederen</string>
+  <string name="weather_4">Donnerwiederen</string>
+  <string name="weather_5">Reen a Schnéi gemëscht</string>
+  <string name="weather_6">Reen a Schnéiree gemëscht</string>
+  <string name="weather_7">Schnéi a Schnéiree gemëscht</string>
+  <string name="weather_8">Äisege Fiselreen</string>
+  <string name="weather_9">Fiselreen</string>
+  <string name="weather_10">Äisege Reen</string>
+  <string name="weather_11">Reeschaueren</string>
+  <string name="weather_12">Schnéiwierbelen</string>
+  <string name="weather_13">Liicht Schnéischaueren</string>
+  <string name="weather_14">Schnéistuerm</string>
+  <string name="weather_15">Schnéi</string>
+  <string name="weather_16">Knëppelsteng</string>
+  <string name="weather_17">Schnéireen</string>
+  <string name="weather_18">Stëbseg</string>
+  <string name="weather_19">Niwweleg</string>
+  <string name="weather_20">Donst</string>
+  <string name="weather_21">Dämpeg</string>
+  <string name="weather_22">Stiermesch</string>
+  <string name="weather_23">Vill Wand</string>
+  <string name="weather_24">Kal</string>
+  <string name="weather_25">Wollekeg</string>
   <!-- Night -->
+  <string name="weather_26">Staark wollekeg</string>
   <!-- Day -->
+  <string name="weather_27">Staark wollekeg</string>
   <!-- Night -->
+  <string name="weather_28">Deels wollekeg</string>
   <!-- Day -->
+  <string name="weather_29">Deels wollekeg</string>
   <!-- Night -->
+  <string name="weather_30">Kloer</string>
+  <string name="weather_31">Sonneg</string>
   <!-- Night -->
+  <string name="weather_32">Schéin</string>
   <!-- Day -->
+  <string name="weather_33">Schéin</string>
+  <string name="weather_34">Reen a Knëppelsteng gemëscht</string>
+  <string name="weather_35">Waarm</string>
+  <string name="weather_36">Regional Donnerwiederen</string>
+  <string name="weather_37">Verdeelt Donnerwiederen</string>
+  <string name="weather_38">Verdeelt Reeschaueren</string>
+  <string name="weather_39">Heftege Schnéifall</string>
+  <string name="weather_40">Verdeelt Schnéischaueren</string>
+  <string name="weather_41">Deels wollekeg</string>
+  <string name="weather_42">Donnerwiederschaueren</string>
+  <string name="weather_43">Schnéischaueren</string>
+  <string name="weather_44">Lokal Donnerwiederschaueren</string>
   <!-- Forecast unavailable -->
 </resources>
