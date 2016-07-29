@@ -53,6 +53,7 @@
   <!-- Day -->
   <string name="weather_29">晴间多云</string>
   <!-- Night -->
+  <string name="weather_30">晴</string>
   <string name="weather_31">晴天</string>
   <!-- Night -->
   <string name="weather_32">晴天积云</string>
