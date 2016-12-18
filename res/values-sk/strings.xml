@@ -16,13 +16,59 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Poskytovateľ počasia</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">Tornádo</string>
+  <string name="weather_1">Tropická búrka</string>
+  <string name="weather_2">Hurikán</string>
+  <string name="weather_3">Silné búrky</string>
+  <string name="weather_4">Búrky</string>
+  <string name="weather_5">Dážď so snehom</string>
+  <string name="weather_6">Dážď s krúpami</string>
+  <string name="weather_7">Sneh s krúpami</string>
+  <string name="weather_8">Mrznúce mrholenie</string>
+  <string name="weather_9">Mrholenie</string>
+  <string name="weather_10">Mrznúci dážď</string>
+  <string name="weather_11">Prehánky</string>
+  <string name="weather_12">Snehové prehánky</string>
+  <string name="weather_13">Slabé snehové prehánky</string>
+  <string name="weather_14">Zvírený sneh</string>
+  <string name="weather_15">Sneh</string>
+  <string name="weather_16">Krupobitie</string>
+  <string name="weather_17">Dážď so snehom</string>
+  <string name="weather_18">Prašno</string>
+  <string name="weather_19">Hmla</string>
+  <string name="weather_20">Opar</string>
+  <string name="weather_21">Zadymené</string>
+  <string name="weather_22">Búrlivo</string>
+  <string name="weather_23">Veterno</string>
+  <string name="weather_24">Chladno</string>
+  <string name="weather_25">Zamračené</string>
   <!-- Night -->
+  <string name="weather_26">Prevažne zamračené</string>
   <!-- Day -->
+  <string name="weather_27">Prevažne zamračené</string>
   <!-- Night -->
+  <string name="weather_28">Čiastočne zamračené</string>
   <!-- Day -->
+  <string name="weather_29">Čiastočne zamračené</string>
   <!-- Night -->
+  <string name="weather_30">Vyčistiť</string>
+  <string name="weather_31">Slnečno</string>
   <!-- Night -->
+  <string name="weather_32">Pekne</string>
   <!-- Day -->
+  <string name="weather_33">Pekne</string>
+  <string name="weather_34">Dážď s krupobitím</string>
+  <string name="weather_35">Horúco</string>
+  <string name="weather_36">Izolované búrky</string>
+  <string name="weather_37">Ojedinelé búrky</string>
+  <string name="weather_38">Ojedinelé prehánky</string>
+  <string name="weather_39">Husté sneženie</string>
+  <string name="weather_40">Ojedinelé snehové prehánky</string>
+  <string name="weather_41">Čiastočne zamračené</string>
+  <string name="weather_42">Silné prehánky</string>
+  <string name="weather_43">Snehové prehánky</string>
+  <string name="weather_44">Izolované silné prehánky</string>
   <!-- Forecast unavailable -->
 </resources>
