@@ -16,7 +16,17 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Weather Provider</string>
   <!-- Weather - Weather codes -->
+  <string name="weather_0">Tornado</string>
+  <string name="weather_1">Tropical Storm</string>
+  <string name="weather_2">Hurricane</string>
+  <string name="weather_3">Severe Thunderstorms</string>
+  <string name="weather_4">Thunderstorms</string>
+  <string name="weather_5">Mixed Rain and Snow</string>
+  <string name="weather_6">Mixed Rain and Sleet</string>
+  <string name="weather_7">Mixed Snow and Sleet</string>
+  <string name="weather_11">Showers</string>
   <!-- Night -->
   <!-- Day -->
   <!-- Night -->
