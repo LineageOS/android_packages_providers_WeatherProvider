@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Fornidor meteorolóxicu</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">Torbolín</string>
   <string name="weather_1">Trona tropical</string>
