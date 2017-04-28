@@ -29,7 +29,7 @@
   <string name="weather_8">Замръзнал ситен дъжд</string>
   <string name="weather_9">Ситен дъжд</string>
   <string name="weather_10">Замръзващ дъжд</string>
-  <string name="weather_11">Приваляване</string>
+  <string name="weather_11">Преваляване</string>
   <string name="weather_12">Снежни превалявания</string>
   <string name="weather_13">Леки превалявания от сняг</string>
   <string name="weather_14">Снежна виелица</string>
@@ -38,8 +38,8 @@
   <string name="weather_17">Суграшица</string>
   <string name="weather_18">Прах</string>
   <string name="weather_19">Мъгливо</string>
-  <string name="weather_20">Мараня</string>
-  <string name="weather_21">Опушено</string>
+  <string name="weather_20">Лека мъгла</string>
+  <string name="weather_21">Задимено</string>
   <string name="weather_22">Бурен</string>
   <string name="weather_23">Ветровито</string>
   <string name="weather_24">Студено</string>
@@ -63,12 +63,12 @@
   <string name="weather_35">Горещо</string>
   <string name="weather_36">Изолирани гръмотевични бури</string>
   <string name="weather_37">Възможни са гръмотевични бури</string>
-  <string name="weather_38">Разкъсана обрачност</string>
+  <string name="weather_38">Възможни са валежи</string>
   <string name="weather_39">Силен снеговалеж</string>
   <string name="weather_40">Възможни са превалявания от сняг</string>
   <string name="weather_41">Частична облачност</string>
-  <string name="weather_42">Гръмотевици</string>
+  <string name="weather_42">Преваляване с гръмотевици</string>
   <string name="weather_43">Снеговалеж</string>
-  <string name="weather_44">Проливен дъжд с гръмотевици</string>
+  <string name="weather_44">Изолирани превалявания с гръмотевици</string>
   <!-- Forecast unavailable -->
 </resources>
