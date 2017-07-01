@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Proveedor del clima</string>
+  <string name="app_name">Proveedor climático</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
   <string name="weather_1">Tormenta tropical</string>
@@ -65,10 +65,10 @@
   <string name="weather_37">Tormentas eléctricas dispersas</string>
   <string name="weather_38">Chubascos aislados</string>
   <string name="weather_39">Fuertes nevadas</string>
-  <string name="weather_40">Chubascos con nieve dispersos</string>
+  <string name="weather_40">Chubascos de nieve dispersos</string>
   <string name="weather_41">Parcialmente nublado</string>
   <string name="weather_42">Chaparrones</string>
-  <string name="weather_43">Chubascos con nieve</string>
+  <string name="weather_43">Chubascos de nieve</string>
   <string name="weather_44">Chaparrones aislados</string>
   <!-- Forecast unavailable -->
 </resources>
