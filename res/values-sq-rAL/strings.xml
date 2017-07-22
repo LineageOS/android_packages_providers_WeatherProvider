@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Furnizuesi i Motit</string>
+  <string name="app_name">Ofruesi i Motit</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">Tornado</string>
   <string name="weather_1">Stuhi tropikale</string>
