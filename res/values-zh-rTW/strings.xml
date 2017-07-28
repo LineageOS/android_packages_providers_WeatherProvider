@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">天氣提供商</string>
+  <string name="app_name">天氣供應商</string>
   <!-- Weather - Weather codes -->
   <string name="weather_0">龍捲風</string>
   <string name="weather_1">熱帶暴風雨</string>
