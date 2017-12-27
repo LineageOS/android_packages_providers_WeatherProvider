@@ -14,7 +14,7 @@
       limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.cyanogenmod.weather.provider"
+    package="org.lineageos.weather.provider"
     android:versionCode="1"
     android:versionName="1.0">
 
@@ -27,9 +27,9 @@
 
         <provider
             android:name=".WeatherContentProvider"
-            android:authorities="com.cyanogenmod.weather"
-            android:readPermission="cyanogenmod.permission.READ_WEATHER"
-            android:writePermission="cyanogenmod.permission.WRITE_WEATHER"
+            android:authorities="org.lineageos.weather"
+            android:readPermission="lineageos.permission.READ_WEATHER"
+            android:writePermission="lineageos.permission.WRITE_WEATHER"
             android:exported="true" />
 
     </application>

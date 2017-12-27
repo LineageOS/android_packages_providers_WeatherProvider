@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.cyanogenmod.weather.provider;
+package org.lineageos.weather.provider;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;
@@ -23,30 +23,30 @@ import android.content.res.Resources;
 import android.database.Cursor;
 import android.database.MatrixCursor;
 import android.net.Uri;
-import cyanogenmod.providers.WeatherContract;
-import cyanogenmod.providers.WeatherContract.WeatherColumns;
-import cyanogenmod.weather.WeatherInfo;
-import cyanogenmod.weather.WeatherInfo.DayForecast;
+import lineageos.providers.WeatherContract;
+import lineageos.providers.WeatherContract.WeatherColumns;
+import lineageos.weather.WeatherInfo;
+import lineageos.weather.WeatherInfo.DayForecast;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CITY;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION_CODE;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_HUMIDITY;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_TEMPERATURE;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_TEMPERATURE_UNIT;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_TIMESTAMP;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_WIND_DIRECTION;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_WIND_SPEED;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.CURRENT_WIND_SPEED_UNIT;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_CONDITION;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_CONDITION_CODE;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_HIGH;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.FORECAST_LOW;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.TODAYS_HIGH_TEMPERATURE;
-import static cyanogenmod.providers.WeatherContract.WeatherColumns.TODAYS_LOW_TEMPERATURE;
+import static lineageos.providers.WeatherContract.WeatherColumns.CURRENT_CITY;
+import static lineageos.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION;
+import static lineageos.providers.WeatherContract.WeatherColumns.CURRENT_CONDITION_CODE;
+import static lineageos.providers.WeatherContract.WeatherColumns.CURRENT_HUMIDITY;
+import static lineageos.providers.WeatherContract.WeatherColumns.CURRENT_TEMPERATURE;
+import static lineageos.providers.WeatherContract.WeatherColumns.CURRENT_TEMPERATURE_UNIT;
+import static lineageos.providers.WeatherContract.WeatherColumns.CURRENT_TIMESTAMP;
+import static lineageos.providers.WeatherContract.WeatherColumns.CURRENT_WIND_DIRECTION;
+import static lineageos.providers.WeatherContract.WeatherColumns.CURRENT_WIND_SPEED;
+import static lineageos.providers.WeatherContract.WeatherColumns.CURRENT_WIND_SPEED_UNIT;
+import static lineageos.providers.WeatherContract.WeatherColumns.FORECAST_CONDITION;
+import static lineageos.providers.WeatherContract.WeatherColumns.FORECAST_CONDITION_CODE;
+import static lineageos.providers.WeatherContract.WeatherColumns.FORECAST_HIGH;
+import static lineageos.providers.WeatherContract.WeatherColumns.FORECAST_LOW;
+import static lineageos.providers.WeatherContract.WeatherColumns.TODAYS_HIGH_TEMPERATURE;
+import static lineageos.providers.WeatherContract.WeatherColumns.TODAYS_LOW_TEMPERATURE;
 
 public class WeatherContentProvider extends ContentProvider {
 
