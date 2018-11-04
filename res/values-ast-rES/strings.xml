@@ -16,42 +16,42 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Fornidor meteorolóxicu</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Torbolín</string>
-  <string name="weather_1">Trona tropical</string>
-  <string name="weather_2">Furacán</string>
-  <string name="weather_3">Torba</string>
-  <string name="weather_4">Trones</string>
-  <string name="weather_5">Agua y ñeve</string>
-  <string name="weather_6">Agua y aguañeve</string>
-  <string name="weather_7">Ñeve y aguañeve</string>
-  <string name="weather_8">Orbayu xelao</string>
-  <string name="weather_9">Orbayu</string>
-  <string name="weather_10">Lloviu xelao</string>
-  <string name="weather_11">Lloviu</string>
-  <string name="weather_12">Falopos</string>
-  <string name="weather_13">Ñevisca</string>
-  <string name="weather_14">Bastiáu ñeve</string>
-  <string name="weather_15">Ñeve</string>
-  <string name="weather_16">Xarazu</string>
-  <string name="weather_17">Aguañeve</string>
-  <string name="weather_18">Polvu</string>
-  <string name="weather_19">Borrina</string>
-  <string name="weather_20">Borrina</string>
-  <string name="weather_21">Fumu</string>
-  <string name="weather_22">Con borrasca</string>
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Night -->
-  <!-- Night -->
-  <!-- Day -->
-  <string name="weather_40">Ñevaes disperses</string>
-  <string name="weather_41">Parc. ñuble</string>
-  <string name="weather_42">Bastiaos</string>
-  <string name="weather_43">Agua y ñeve</string>
-  <string name="weather_44">Bastiaos aisllaos</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Fornidor meteorolóxicu</string>
+    <!-- Weather - Weather codes -->
+    <string name="weather_0">Torbolín</string>
+    <string name="weather_1">Trona tropical</string>
+    <string name="weather_2">Furacán</string>
+    <string name="weather_3">Torba</string>
+    <string name="weather_4">Trones</string>
+    <string name="weather_5">Agua y ñeve</string>
+    <string name="weather_6">Agua y aguañeve</string>
+    <string name="weather_7">Ñeve y aguañeve</string>
+    <string name="weather_8">Orbayu xelao</string>
+    <string name="weather_9">Orbayu</string>
+    <string name="weather_10">Lloviu xelao</string>
+    <string name="weather_11">Lloviu</string>
+    <string name="weather_12">Falopos</string>
+    <string name="weather_13">Ñevisca</string>
+    <string name="weather_14">Bastiáu ñeve</string>
+    <string name="weather_15">Ñeve</string>
+    <string name="weather_16">Xarazu</string>
+    <string name="weather_17">Aguañeve</string>
+    <string name="weather_18">Polvu</string>
+    <string name="weather_19">Borrina</string>
+    <string name="weather_20">Borrina</string>
+    <string name="weather_21">Fumu</string>
+    <string name="weather_22">Con borrasca</string>
+    <!-- Night -->
+    <!-- Day -->
+    <!-- Night -->
+    <!-- Day -->
+    <!-- Night -->
+    <!-- Night -->
+    <!-- Day -->
+    <string name="weather_40">Ñevaes disperses</string>
+    <string name="weather_41">Parc. ñuble</string>
+    <string name="weather_42">Bastiaos</string>
+    <string name="weather_43">Agua y ñeve</string>
+    <string name="weather_44">Bastiaos aisllaos</string>
+    <!-- Forecast unavailable -->
 </resources>

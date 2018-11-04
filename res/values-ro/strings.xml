@@ -16,59 +16,59 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Furnizor de Vreme</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornadă</string>
-  <string name="weather_1">Furtună tropicală</string>
-  <string name="weather_2">Uragan</string>
-  <string name="weather_3">Furtuni severe</string>
-  <string name="weather_4">Furtuni</string>
-  <string name="weather_5">Lapoviță</string>
-  <string name="weather_6">Lapoviță</string>
-  <string name="weather_7">Ninsoare umedă</string>
-  <string name="weather_8">Chiciură</string>
-  <string name="weather_9">Burniță</string>
-  <string name="weather_10">Polei</string>
-  <string name="weather_11">Averse</string>
-  <string name="weather_12">Rafale de zăpadă</string>
-  <string name="weather_13">Ninsoare slabă</string>
-  <string name="weather_14">Viscol</string>
-  <string name="weather_15">Ninsoare</string>
-  <string name="weather_16">Grindină</string>
-  <string name="weather_17">Lapoviță</string>
-  <string name="weather_18">Praf</string>
-  <string name="weather_19">Ceață</string>
-  <string name="weather_20">Ceață</string>
-  <string name="weather_21">Fum</string>
-  <string name="weather_22">Furtună</string>
-  <string name="weather_23">Vânt</string>
-  <string name="weather_24">Rece</string>
-  <string name="weather_25">Înnorat</string>
-  <!-- Night -->
-  <string name="weather_26">În mare parte înnorat</string>
-  <!-- Day -->
-  <string name="weather_27">În mare parte înnorat</string>
-  <!-- Night -->
-  <string name="weather_28">Parţial Înnorat</string>
-  <!-- Day -->
-  <string name="weather_29">Parţial Înnorat</string>
-  <!-- Night -->
-  <string name="weather_30">Senin</string>
-  <string name="weather_31">Însorit</string>
-  <!-- Night -->
-  <string name="weather_32">Senin</string>
-  <!-- Day -->
-  <string name="weather_33">Senin</string>
-  <string name="weather_34">Ploaie cu Grindină</string>
-  <string name="weather_35">Cald</string>
-  <string name="weather_36">Furtuni Izolate</string>
-  <string name="weather_37">Furtuni Dispersate</string>
-  <string name="weather_38">Ploi Ușoare</string>
-  <string name="weather_39">Ninsoare Puternică</string>
-  <string name="weather_40">Ninsori Dispersate</string>
-  <string name="weather_41">Parţial Înnorat</string>
-  <string name="weather_42">Furtuni</string>
-  <string name="weather_43">Averse de Ninsoare</string>
-  <string name="weather_44">Descărcări Electrice Izolate</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Furnizor de Vreme</string>
+    <!-- Weather - Weather codes -->
+    <string name="weather_0">Tornadă</string>
+    <string name="weather_1">Furtună tropicală</string>
+    <string name="weather_2">Uragan</string>
+    <string name="weather_3">Furtuni severe</string>
+    <string name="weather_4">Furtuni</string>
+    <string name="weather_5">Lapoviță</string>
+    <string name="weather_6">Lapoviță</string>
+    <string name="weather_7">Ninsoare umedă</string>
+    <string name="weather_8">Chiciură</string>
+    <string name="weather_9">Burniță</string>
+    <string name="weather_10">Polei</string>
+    <string name="weather_11">Averse</string>
+    <string name="weather_12">Rafale de zăpadă</string>
+    <string name="weather_13">Ninsoare slabă</string>
+    <string name="weather_14">Viscol</string>
+    <string name="weather_15">Ninsoare</string>
+    <string name="weather_16">Grindină</string>
+    <string name="weather_17">Lapoviță</string>
+    <string name="weather_18">Praf</string>
+    <string name="weather_19">Ceață</string>
+    <string name="weather_20">Ceață</string>
+    <string name="weather_21">Fum</string>
+    <string name="weather_22">Furtună</string>
+    <string name="weather_23">Vânt</string>
+    <string name="weather_24">Rece</string>
+    <string name="weather_25">Înnorat</string>
+    <!-- Night -->
+    <string name="weather_26">În mare parte înnorat</string>
+    <!-- Day -->
+    <string name="weather_27">În mare parte înnorat</string>
+    <!-- Night -->
+    <string name="weather_28">Parţial Înnorat</string>
+    <!-- Day -->
+    <string name="weather_29">Parţial Înnorat</string>
+    <!-- Night -->
+    <string name="weather_30">Senin</string>
+    <string name="weather_31">Însorit</string>
+    <!-- Night -->
+    <string name="weather_32">Senin</string>
+    <!-- Day -->
+    <string name="weather_33">Senin</string>
+    <string name="weather_34">Ploaie cu Grindină</string>
+    <string name="weather_35">Cald</string>
+    <string name="weather_36">Furtuni Izolate</string>
+    <string name="weather_37">Furtuni Dispersate</string>
+    <string name="weather_38">Ploi Ușoare</string>
+    <string name="weather_39">Ninsoare Puternică</string>
+    <string name="weather_40">Ninsori Dispersate</string>
+    <string name="weather_41">Parţial Înnorat</string>
+    <string name="weather_42">Furtuni</string>
+    <string name="weather_43">Averse de Ninsoare</string>
+    <string name="weather_44">Descărcări Electrice Izolate</string>
+    <!-- Forecast unavailable -->
 </resources>

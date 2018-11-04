@@ -16,59 +16,59 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">ספק תחזית מזג אוויר</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">טורנדו</string>
-  <string name="weather_1">סופה טרופית</string>
-  <string name="weather_2">הוריקן</string>
-  <string name="weather_3">סופות רעמים קשות</string>
-  <string name="weather_4">סופות רעמים</string>
-  <string name="weather_5">גשם מעורב בשלג</string>
-  <string name="weather_6">גשם מעורב בשלג קל</string>
-  <string name="weather_7">שלג מעורב בגשם קל</string>
-  <string name="weather_8">טפטוף קפוא</string>
-  <string name="weather_9">טפטוף</string>
-  <string name="weather_10">גשם קפוא</string>
-  <string name="weather_11">ממטרים</string>
-  <string name="weather_12">פתיתי שלג</string>
-  <string name="weather_13">ממטרי שלג קלים</string>
-  <string name="weather_14">משבי שלג</string>
-  <string name="weather_15">שלג</string>
-  <string name="weather_16">ברד</string>
-  <string name="weather_17">גשם מעורב בשלג</string>
-  <string name="weather_18">אבק</string>
-  <string name="weather_19">ערפילי</string>
-  <string name="weather_20">אובך</string>
-  <string name="weather_21">מעושן</string>
-  <string name="weather_22">סוער</string>
-  <string name="weather_23">משבי רוח</string>
-  <string name="weather_24">קר</string>
-  <string name="weather_25">מעונן</string>
-  <!-- Night -->
-  <string name="weather_26">מעונן ברובו</string>
-  <!-- Day -->
-  <string name="weather_27">מעונן ברובו</string>
-  <!-- Night -->
-  <string name="weather_28">מעונן חלקית</string>
-  <!-- Day -->
-  <string name="weather_29">מעונן חלקית</string>
-  <!-- Night -->
-  <string name="weather_30">בהיר</string>
-  <string name="weather_31">בהיר</string>
-  <!-- Night -->
-  <string name="weather_32">בהיר</string>
-  <!-- Day -->
-  <string name="weather_33">בהיר</string>
-  <string name="weather_34">גשם מעורב בברד</string>
-  <string name="weather_35">חם</string>
-  <string name="weather_36">סופות רעמים בודדות</string>
-  <string name="weather_37">סופות רעמים פזורות</string>
-  <string name="weather_38">ממטרים פזורים</string>
-  <string name="weather_39">שלג כבד</string>
-  <string name="weather_40">ממטרי שלג פזורים</string>
-  <string name="weather_41">מעונן חלקית</string>
-  <string name="weather_42">סופות גשם ורעמים</string>
-  <string name="weather_43">ממטרי שלג</string>
-  <string name="weather_44">סופות גשם ורעמים בודדות</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">ספק תחזית מזג אוויר</string>
+    <!-- Weather - Weather codes -->
+    <string name="weather_0">טורנדו</string>
+    <string name="weather_1">סופה טרופית</string>
+    <string name="weather_2">הוריקן</string>
+    <string name="weather_3">סופות רעמים קשות</string>
+    <string name="weather_4">סופות רעמים</string>
+    <string name="weather_5">גשם מעורב בשלג</string>
+    <string name="weather_6">גשם מעורב בשלג קל</string>
+    <string name="weather_7">שלג מעורב בגשם קל</string>
+    <string name="weather_8">טפטוף קפוא</string>
+    <string name="weather_9">טפטוף</string>
+    <string name="weather_10">גשם קפוא</string>
+    <string name="weather_11">ממטרים</string>
+    <string name="weather_12">פתיתי שלג</string>
+    <string name="weather_13">ממטרי שלג קלים</string>
+    <string name="weather_14">משבי שלג</string>
+    <string name="weather_15">שלג</string>
+    <string name="weather_16">ברד</string>
+    <string name="weather_17">גשם מעורב בשלג</string>
+    <string name="weather_18">אבק</string>
+    <string name="weather_19">ערפילי</string>
+    <string name="weather_20">אובך</string>
+    <string name="weather_21">מעושן</string>
+    <string name="weather_22">סוער</string>
+    <string name="weather_23">משבי רוח</string>
+    <string name="weather_24">קר</string>
+    <string name="weather_25">מעונן</string>
+    <!-- Night -->
+    <string name="weather_26">מעונן ברובו</string>
+    <!-- Day -->
+    <string name="weather_27">מעונן ברובו</string>
+    <!-- Night -->
+    <string name="weather_28">מעונן חלקית</string>
+    <!-- Day -->
+    <string name="weather_29">מעונן חלקית</string>
+    <!-- Night -->
+    <string name="weather_30">בהיר</string>
+    <string name="weather_31">בהיר</string>
+    <!-- Night -->
+    <string name="weather_32">בהיר</string>
+    <!-- Day -->
+    <string name="weather_33">בהיר</string>
+    <string name="weather_34">גשם מעורב בברד</string>
+    <string name="weather_35">חם</string>
+    <string name="weather_36">סופות רעמים בודדות</string>
+    <string name="weather_37">סופות רעמים פזורות</string>
+    <string name="weather_38">ממטרים פזורים</string>
+    <string name="weather_39">שלג כבד</string>
+    <string name="weather_40">ממטרי שלג פזורים</string>
+    <string name="weather_41">מעונן חלקית</string>
+    <string name="weather_42">סופות גשם ורעמים</string>
+    <string name="weather_43">ממטרי שלג</string>
+    <string name="weather_44">סופות גשם ורעמים בודדות</string>
+    <!-- Forecast unavailable -->
 </resources>

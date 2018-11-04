@@ -16,59 +16,59 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Vejrudbyder</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
-  <string name="weather_1">Tropisk Storm</string>
-  <string name="weather_2">Orkan</string>
-  <string name="weather_3">Alvorligt tordenvejr</string>
-  <string name="weather_4">Tordenvejr</string>
-  <string name="weather_5">Blandet regn og sne</string>
-  <string name="weather_6">Blandet regn og slud</string>
-  <string name="weather_7">Blandet sne og slud</string>
-  <string name="weather_8">Isslag</string>
-  <string name="weather_9">Støvregn</string>
-  <string name="weather_10">Isslag</string>
-  <string name="weather_11">Regn</string>
-  <string name="weather_12">Snebyge</string>
-  <string name="weather_13">Lette snebyger</string>
-  <string name="weather_14">Snestorm</string>
-  <string name="weather_15">Sne</string>
-  <string name="weather_16">Hagl</string>
-  <string name="weather_17">Slud</string>
-  <string name="weather_18">Støv</string>
-  <string name="weather_19">Uklart</string>
-  <string name="weather_20">Tåge</string>
-  <string name="weather_21">Tåget</string>
-  <string name="weather_22">Kuling</string>
-  <string name="weather_23">Blæst</string>
-  <string name="weather_24">Koldt</string>
-  <string name="weather_25">Skyet</string>
-  <!-- Night -->
-  <string name="weather_26">Mest skyet</string>
-  <!-- Day -->
-  <string name="weather_27">Mest skyet</string>
-  <!-- Night -->
-  <string name="weather_28">Delvist skyet</string>
-  <!-- Day -->
-  <string name="weather_29">Delvist skyet</string>
-  <!-- Night -->
-  <string name="weather_30">Klart</string>
-  <string name="weather_31">Sol</string>
-  <!-- Night -->
-  <string name="weather_32">Fint</string>
-  <!-- Day -->
-  <string name="weather_33">Fint</string>
-  <string name="weather_34">Blandet regn og hagl</string>
-  <string name="weather_35">Varmt</string>
-  <string name="weather_36">Isoleret tordenvejr</string>
-  <string name="weather_37">Spredt tordenvejr</string>
-  <string name="weather_38">Spredte byger</string>
-  <string name="weather_39">Kraftig sne</string>
-  <string name="weather_40">Spredte snebyger</string>
-  <string name="weather_41">Delvist skyet</string>
-  <string name="weather_42">Tordenbyger</string>
-  <string name="weather_43">Snebyger</string>
-  <string name="weather_44">Isolerede tordenbyger</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Vejrudbyder</string>
+    <!-- Weather - Weather codes -->
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Tropisk Storm</string>
+    <string name="weather_2">Orkan</string>
+    <string name="weather_3">Alvorligt tordenvejr</string>
+    <string name="weather_4">Tordenvejr</string>
+    <string name="weather_5">Blandet regn og sne</string>
+    <string name="weather_6">Blandet regn og slud</string>
+    <string name="weather_7">Blandet sne og slud</string>
+    <string name="weather_8">Isslag</string>
+    <string name="weather_9">Støvregn</string>
+    <string name="weather_10">Isslag</string>
+    <string name="weather_11">Regn</string>
+    <string name="weather_12">Snebyge</string>
+    <string name="weather_13">Lette snebyger</string>
+    <string name="weather_14">Snestorm</string>
+    <string name="weather_15">Sne</string>
+    <string name="weather_16">Hagl</string>
+    <string name="weather_17">Slud</string>
+    <string name="weather_18">Støv</string>
+    <string name="weather_19">Uklart</string>
+    <string name="weather_20">Tåge</string>
+    <string name="weather_21">Tåget</string>
+    <string name="weather_22">Kuling</string>
+    <string name="weather_23">Blæst</string>
+    <string name="weather_24">Koldt</string>
+    <string name="weather_25">Skyet</string>
+    <!-- Night -->
+    <string name="weather_26">Mest skyet</string>
+    <!-- Day -->
+    <string name="weather_27">Mest skyet</string>
+    <!-- Night -->
+    <string name="weather_28">Delvist skyet</string>
+    <!-- Day -->
+    <string name="weather_29">Delvist skyet</string>
+    <!-- Night -->
+    <string name="weather_30">Klart</string>
+    <string name="weather_31">Sol</string>
+    <!-- Night -->
+    <string name="weather_32">Fint</string>
+    <!-- Day -->
+    <string name="weather_33">Fint</string>
+    <string name="weather_34">Blandet regn og hagl</string>
+    <string name="weather_35">Varmt</string>
+    <string name="weather_36">Isoleret tordenvejr</string>
+    <string name="weather_37">Spredt tordenvejr</string>
+    <string name="weather_38">Spredte byger</string>
+    <string name="weather_39">Kraftig sne</string>
+    <string name="weather_40">Spredte snebyger</string>
+    <string name="weather_41">Delvist skyet</string>
+    <string name="weather_42">Tordenbyger</string>
+    <string name="weather_43">Snebyger</string>
+    <string name="weather_44">Isolerede tordenbyger</string>
+    <!-- Forecast unavailable -->
 </resources>
