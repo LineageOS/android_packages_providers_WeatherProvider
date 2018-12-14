@@ -16,13 +16,20 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">Darparwr tywydd</string>
     <!-- Weather - Weather codes -->
+    <string name="weather_0">Corwynt</string>
+    <string name="weather_1">Storm Drofannol</string>
+    <string name="weather_4">Stormydd fellt a tharanau</string>
+    <string name="weather_23">Gwyntog</string>
     <!-- Night -->
     <!-- Day -->
     <!-- Night -->
     <!-- Day -->
     <!-- Night -->
+    <string name="weather_31">Heulog</string>
     <!-- Night -->
     <!-- Day -->
+    <string name="weather_42">Cawodydd storm</string>
     <!-- Forecast unavailable -->
 </resources>
