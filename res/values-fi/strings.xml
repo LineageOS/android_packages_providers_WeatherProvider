@@ -16,59 +16,59 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Sään tarjoaja</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Pyörremyrsky</string>
-  <string name="weather_1">Trooppinen myrsky</string>
-  <string name="weather_2">Hurrikaani</string>
-  <string name="weather_3">Kovia ukkosmyrskyjä</string>
-  <string name="weather_4">Ukkosmyrskyjä</string>
-  <string name="weather_5">Räntäsadetta</string>
-  <string name="weather_6">Räntäsadetta</string>
-  <string name="weather_7">Räntäsadetta</string>
-  <string name="weather_8">Jäätävää tihkua</string>
-  <string name="weather_9">Tihkusadetta</string>
-  <string name="weather_10">Jäätävää sadetta</string>
-  <string name="weather_11">Sadekuuroja</string>
-  <string name="weather_12">Lumikuuroja</string>
-  <string name="weather_13">Kevyitä lumikuuroja</string>
-  <string name="weather_14">Lumituiskuja</string>
-  <string name="weather_15">Lunta</string>
-  <string name="weather_16">Raekuuroja</string>
-  <string name="weather_17">Räntäsadetta</string>
-  <string name="weather_18">Pölyistä</string>
-  <string name="weather_19">Sumua</string>
-  <string name="weather_20">Usvaa</string>
-  <string name="weather_21">Savua</string>
-  <string name="weather_22">Tuulenpuuskia</string>
-  <string name="weather_23">Tuulista</string>
-  <string name="weather_24">Kylmää</string>
-  <string name="weather_25">Pilvinen</string>
-  <!-- Night -->
-  <string name="weather_26">Enimmäkseen pilvistä</string>
-  <!-- Day -->
-  <string name="weather_27">Enimmäkseen pilvistä</string>
-  <!-- Night -->
-  <string name="weather_28">Puolipilvistä</string>
-  <!-- Day -->
-  <string name="weather_29">Puolipilvistä</string>
-  <!-- Night -->
-  <string name="weather_30">Kirkasta</string>
-  <string name="weather_31">Aurinkoista</string>
-  <!-- Night -->
-  <string name="weather_32">Poutaa</string>
-  <!-- Day -->
-  <string name="weather_33">Poutaa</string>
-  <string name="weather_34">Raekuuroja</string>
-  <string name="weather_35">Hellettä</string>
-  <string name="weather_36">Paikallisia ukkosia</string>
-  <string name="weather_37">Satunnaisia ukkosia</string>
-  <string name="weather_38">Satunnaisia sateita</string>
-  <string name="weather_39">Sankkaa lumisadetta</string>
-  <string name="weather_40">Satunnaisia lumisateita</string>
-  <string name="weather_41">Puolipilvistä</string>
-  <string name="weather_42">Ukkoskuuroja</string>
-  <string name="weather_43">Lumikuuroja</string>
-  <string name="weather_44">Paikallisia ukkoskuuroja</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Sään tarjoaja</string>
+    <!-- Weather - Weather codes -->
+    <string name="weather_0">Pyörremyrsky</string>
+    <string name="weather_1">Trooppinen myrsky</string>
+    <string name="weather_2">Hurrikaani</string>
+    <string name="weather_3">Kovia ukkosmyrskyjä</string>
+    <string name="weather_4">Ukkosmyrskyjä</string>
+    <string name="weather_5">Räntäsadetta</string>
+    <string name="weather_6">Räntäsadetta</string>
+    <string name="weather_7">Räntäsadetta</string>
+    <string name="weather_8">Jäätävää tihkua</string>
+    <string name="weather_9">Tihkusadetta</string>
+    <string name="weather_10">Jäätävää sadetta</string>
+    <string name="weather_11">Sadekuuroja</string>
+    <string name="weather_12">Lumikuuroja</string>
+    <string name="weather_13">Kevyitä lumikuuroja</string>
+    <string name="weather_14">Lumituiskuja</string>
+    <string name="weather_15">Lunta</string>
+    <string name="weather_16">Raekuuroja</string>
+    <string name="weather_17">Räntäsadetta</string>
+    <string name="weather_18">Pölyistä</string>
+    <string name="weather_19">Sumua</string>
+    <string name="weather_20">Usvaa</string>
+    <string name="weather_21">Savua</string>
+    <string name="weather_22">Tuulenpuuskia</string>
+    <string name="weather_23">Tuulista</string>
+    <string name="weather_24">Kylmää</string>
+    <string name="weather_25">Pilvinen</string>
+    <!-- Night -->
+    <string name="weather_26">Enimmäkseen pilvistä</string>
+    <!-- Day -->
+    <string name="weather_27">Enimmäkseen pilvistä</string>
+    <!-- Night -->
+    <string name="weather_28">Puolipilvistä</string>
+    <!-- Day -->
+    <string name="weather_29">Puolipilvistä</string>
+    <!-- Night -->
+    <string name="weather_30">Kirkasta</string>
+    <string name="weather_31">Aurinkoista</string>
+    <!-- Night -->
+    <string name="weather_32">Poutaa</string>
+    <!-- Day -->
+    <string name="weather_33">Poutaa</string>
+    <string name="weather_34">Raekuuroja</string>
+    <string name="weather_35">Hellettä</string>
+    <string name="weather_36">Paikallisia ukkosia</string>
+    <string name="weather_37">Satunnaisia ukkosia</string>
+    <string name="weather_38">Satunnaisia sateita</string>
+    <string name="weather_39">Sankkaa lumisadetta</string>
+    <string name="weather_40">Satunnaisia lumisateita</string>
+    <string name="weather_41">Puolipilvistä</string>
+    <string name="weather_42">Ukkoskuuroja</string>
+    <string name="weather_43">Lumikuuroja</string>
+    <string name="weather_44">Paikallisia ukkoskuuroja</string>
+    <!-- Forecast unavailable -->
 </resources>

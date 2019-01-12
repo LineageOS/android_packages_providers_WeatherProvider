@@ -16,59 +16,59 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">天気プロバイダ</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">竜巻</string>
-  <string name="weather_1">熱帯暴風雨</string>
-  <string name="weather_2">ハリケーン</string>
-  <string name="weather_3">非常に激しい雷雨</string>
-  <string name="weather_4">激しい雷雨</string>
-  <string name="weather_5">雨と雪</string>
-  <string name="weather_6">雨とみぞれ</string>
-  <string name="weather_7">雪とみぞれ</string>
-  <string name="weather_8">着氷性の霧雨</string>
-  <string name="weather_9">霧雨</string>
-  <string name="weather_10">着氷性の雨</string>
-  <string name="weather_11">にわか雨</string>
-  <string name="weather_12">にわか雪</string>
-  <string name="weather_13">弱いにわか雪</string>
-  <string name="weather_14">吹雪</string>
-  <string name="weather_15">雪</string>
-  <string name="weather_16">雹</string>
-  <string name="weather_17">みぞれ</string>
-  <string name="weather_18">砂塵</string>
-  <string name="weather_19">霧</string>
-  <string name="weather_20">もや</string>
-  <string name="weather_21">けむり</string>
-  <string name="weather_22">大荒れ</string>
-  <string name="weather_23">強風</string>
-  <string name="weather_24">寒冷</string>
-  <string name="weather_25">曇り</string>
-  <!-- Night -->
-  <string name="weather_26">曇り</string>
-  <!-- Day -->
-  <string name="weather_27">曇り</string>
-  <!-- Night -->
-  <string name="weather_28">ところにより曇り</string>
-  <!-- Day -->
-  <string name="weather_29">ところにより曇り</string>
-  <!-- Night -->
-  <string name="weather_30">晴れ</string>
-  <string name="weather_31">晴れ</string>
-  <!-- Night -->
-  <string name="weather_32">晴れ</string>
-  <!-- Day -->
-  <string name="weather_33">晴れ</string>
-  <string name="weather_34">雨と雹</string>
-  <string name="weather_35">温暖</string>
-  <string name="weather_36">局地的な激しい雷雨</string>
-  <string name="weather_37">ところにより激しい雷雨</string>
-  <string name="weather_38">ところによりにわか雨</string>
-  <string name="weather_39">大雪</string>
-  <string name="weather_40">ところによりにわか雪</string>
-  <string name="weather_41">ところにより曇り</string>
-  <string name="weather_42">雷雨</string>
-  <string name="weather_43">にわか雪</string>
-  <string name="weather_44">局地的雷雨</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">天気プロバイダ</string>
+    <!-- Weather - Weather codes -->
+    <string name="weather_0">竜巻</string>
+    <string name="weather_1">熱帯暴風雨</string>
+    <string name="weather_2">ハリケーン</string>
+    <string name="weather_3">非常に激しい雷雨</string>
+    <string name="weather_4">激しい雷雨</string>
+    <string name="weather_5">雨と雪</string>
+    <string name="weather_6">雨とみぞれ</string>
+    <string name="weather_7">雪とみぞれ</string>
+    <string name="weather_8">着氷性の霧雨</string>
+    <string name="weather_9">霧雨</string>
+    <string name="weather_10">着氷性の雨</string>
+    <string name="weather_11">にわか雨</string>
+    <string name="weather_12">にわか雪</string>
+    <string name="weather_13">弱いにわか雪</string>
+    <string name="weather_14">吹雪</string>
+    <string name="weather_15">雪</string>
+    <string name="weather_16">雹</string>
+    <string name="weather_17">みぞれ</string>
+    <string name="weather_18">砂塵</string>
+    <string name="weather_19">霧</string>
+    <string name="weather_20">もや</string>
+    <string name="weather_21">けむり</string>
+    <string name="weather_22">大荒れ</string>
+    <string name="weather_23">強風</string>
+    <string name="weather_24">寒冷</string>
+    <string name="weather_25">曇り</string>
+    <!-- Night -->
+    <string name="weather_26">曇り</string>
+    <!-- Day -->
+    <string name="weather_27">曇り</string>
+    <!-- Night -->
+    <string name="weather_28">ところにより曇り</string>
+    <!-- Day -->
+    <string name="weather_29">ところにより曇り</string>
+    <!-- Night -->
+    <string name="weather_30">晴れ</string>
+    <string name="weather_31">晴れ</string>
+    <!-- Night -->
+    <string name="weather_32">晴れ</string>
+    <!-- Day -->
+    <string name="weather_33">晴れ</string>
+    <string name="weather_34">雨と雹</string>
+    <string name="weather_35">温暖</string>
+    <string name="weather_36">局地的な激しい雷雨</string>
+    <string name="weather_37">ところにより激しい雷雨</string>
+    <string name="weather_38">ところによりにわか雨</string>
+    <string name="weather_39">大雪</string>
+    <string name="weather_40">ところによりにわか雪</string>
+    <string name="weather_41">ところにより曇り</string>
+    <string name="weather_42">雷雨</string>
+    <string name="weather_43">にわか雪</string>
+    <string name="weather_44">局地的雷雨</string>
+    <!-- Forecast unavailable -->
 </resources>

@@ -16,13 +16,37 @@
      limitations under the License.
 -->
 <resources>
-  <!-- Weather - Weather codes -->
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Night -->
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Forecast unavailable -->
+    <string name="app_name">Darparwr tywydd</string>
+    <!-- Weather - Weather codes -->
+    <string name="weather_0">Corwynt</string>
+    <string name="weather_1">Storm Drofannol</string>
+    <string name="weather_2">Corwynt</string>
+    <string name="weather_4">Stormydd fellt a tharanau</string>
+    <string name="weather_11">Cawodydd</string>
+    <string name="weather_15">Eira</string>
+    <string name="weather_16">Cesair</string>
+    <string name="weather_17">Eirlaw</string>
+    <string name="weather_18">Llwch</string>
+    <string name="weather_19">Niwlog</string>
+    <string name="weather_23">Gwyntog</string>
+    <string name="weather_24">Oer</string>
+    <string name="weather_25">Cymylog</string>
+    <!-- Night -->
+    <string name="weather_26">Cymylog yn bennaf</string>
+    <!-- Day -->
+    <string name="weather_27">Cymylog yn bennaf</string>
+    <!-- Night -->
+    <string name="weather_28">Rhai cymylau</string>
+    <!-- Day -->
+    <string name="weather_29">Rhai cymylau</string>
+    <!-- Night -->
+    <string name="weather_30">Clir</string>
+    <string name="weather_31">Heulog</string>
+    <!-- Night -->
+    <!-- Day -->
+    <string name="weather_35">Poeth</string>
+    <string name="weather_39">Eira trwm</string>
+    <string name="weather_41">Rhai cymylau</string>
+    <string name="weather_42">Cawodydd storm</string>
+    <!-- Forecast unavailable -->
 </resources>
