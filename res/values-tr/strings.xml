@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Hava Durumu Sağlayıcı</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Tornado</string>
     <string name="weather_1">Tropik Fırtına</string>
     <string name="weather_2">Kasırga</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Rüzgarlı</string>
     <string name="weather_24">Soğuk</string>
     <string name="weather_25">Bulutlu</string>
-    <!-- Night -->
     <string name="weather_26">Çoğunlukla Bulutlu</string>
-    <!-- Day -->
     <string name="weather_27">Çoğunlukla Bulutlu</string>
-    <!-- Night -->
     <string name="weather_28">Kısmen Bulutlu</string>
-    <!-- Day -->
     <string name="weather_29">Parçalı Bulutlu</string>
-    <!-- Night -->
     <string name="weather_30">Açık</string>
     <string name="weather_31">Güneşli</string>
-    <!-- Night -->
     <string name="weather_32">Güzel</string>
-    <!-- Day -->
     <string name="weather_33">Güzel</string>
     <string name="weather_34">Yağmurla Karışık Dolu</string>
     <string name="weather_35">Sıcak</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Gökgürültülü Sağanak</string>
     <string name="weather_43">Sağanak Kar</string>
     <string name="weather_44">Kısmen Gökgürültülü Sağanak</string>
-    <!-- Forecast unavailable -->
 </resources>

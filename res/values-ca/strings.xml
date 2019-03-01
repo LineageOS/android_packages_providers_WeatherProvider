@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Proveïdor meteorològic</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Tornado</string>
     <string name="weather_1">Tempesta tropical</string>
     <string name="weather_2">Huracà</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Vent</string>
     <string name="weather_24">Fred</string>
     <string name="weather_25">Ennuvolat</string>
-    <!-- Night -->
     <string name="weather_26">Majorit. Ennuvolat</string>
-    <!-- Day -->
     <string name="weather_27">Majorit. Ennuvolat</string>
-    <!-- Night -->
     <string name="weather_28">Parcial. Ennuvolat</string>
-    <!-- Day -->
     <string name="weather_29">Parcial. Ennuvolat</string>
-    <!-- Night -->
     <string name="weather_30">Cel serè</string>
     <string name="weather_31">Assolellat</string>
-    <!-- Night -->
     <string name="weather_32">Bo</string>
-    <!-- Day -->
     <string name="weather_33">Bo</string>
     <string name="weather_34">Pluja i Calamarsa</string>
     <string name="weather_35">Calor</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Tempestes</string>
     <string name="weather_43">Nevades</string>
     <string name="weather_44">Tempestes aïllades</string>
-    <!-- Forecast unavailable -->
 </resources>

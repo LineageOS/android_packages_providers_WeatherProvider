@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Dostawca pogody</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Tornado</string>
     <string name="weather_1">Burza tropikalna</string>
     <string name="weather_2">Huragan</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Wietrznie</string>
     <string name="weather_24">Zimno</string>
     <string name="weather_25">Pochmurno</string>
-    <!-- Night -->
     <string name="weather_26">Duże zachmurzenie</string>
-    <!-- Day -->
     <string name="weather_27">Duże zachmurzenie</string>
-    <!-- Night -->
     <string name="weather_28">Częściowe zachmurzenie</string>
-    <!-- Day -->
     <string name="weather_29">Częściowe zachmurzenie</string>
-    <!-- Night -->
     <string name="weather_30">Przejrzyście</string>
     <string name="weather_31">Słonecznie</string>
-    <!-- Night -->
     <string name="weather_32">Pogodnie</string>
-    <!-- Day -->
     <string name="weather_33">Pogodnie</string>
     <string name="weather_34">Deszcz i grad</string>
     <string name="weather_35">Gorąco</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Burze z piorunami</string>
     <string name="weather_43">Przelotny śnieg</string>
     <string name="weather_44">Lokalne burze z piorunami</string>
-    <!-- Forecast unavailable -->
 </resources>

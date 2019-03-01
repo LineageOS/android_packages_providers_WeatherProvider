@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Weer verskaffer</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Tornado</string>
     <string name="weather_1">Tropiese storm</string>
     <string name="weather_2">Orkaan</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Winderig</string>
     <string name="weather_24">Koud</string>
     <string name="weather_25">Bewolk</string>
-    <!-- Night -->
     <string name="weather_26">Meestal bewolk</string>
-    <!-- Day -->
     <string name="weather_27">Meestal bewolk</string>
-    <!-- Night -->
     <string name="weather_28">Gedeeltelik bewolk</string>
-    <!-- Day -->
     <string name="weather_29">Gedeeltelik bewolk</string>
-    <!-- Night -->
     <string name="weather_30">Maak skoon</string>
     <string name="weather_31">Sonnig</string>
-    <!-- Night -->
     <string name="weather_32">Mooiweer</string>
-    <!-- Day -->
     <string name="weather_33">Mooiweer</string>
     <string name="weather_34">Gemengde reën en hael</string>
     <string name="weather_35">Warm</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Donderstorms</string>
     <string name="weather_43">Sneeubuie</string>
     <string name="weather_44">Geïsoleerde Donderstorms</string>
-    <!-- Forecast unavailable -->
 </resources>

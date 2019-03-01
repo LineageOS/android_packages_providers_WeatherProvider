@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">天气提供器</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">龙卷风</string>
     <string name="weather_1">热带风暴</string>
     <string name="weather_2">飓风</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">大风</string>
     <string name="weather_24">冷</string>
     <string name="weather_25">阴天</string>
-    <!-- Night -->
     <string name="weather_26">大部多云</string>
-    <!-- Day -->
     <string name="weather_27">大部多云</string>
-    <!-- Night -->
     <string name="weather_28">晴间多云</string>
-    <!-- Day -->
     <string name="weather_29">晴间多云</string>
-    <!-- Night -->
     <string name="weather_30">晴</string>
     <string name="weather_31">晴天</string>
-    <!-- Night -->
     <string name="weather_32">晴天积云</string>
-    <!-- Day -->
     <string name="weather_33">晴天积云</string>
     <string name="weather_34">雨夹冰雹</string>
     <string name="weather_35">热</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">雷阵雨</string>
     <string name="weather_43">阵雪</string>
     <string name="weather_44">局部雷阵雨</string>
-    <!-- Forecast unavailable -->
 </resources>
