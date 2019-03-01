@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">天気プロバイダ</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">竜巻</string>
     <string name="weather_1">熱帯暴風雨</string>
     <string name="weather_2">ハリケーン</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">強風</string>
     <string name="weather_24">寒冷</string>
     <string name="weather_25">曇り</string>
-    <!-- Night -->
     <string name="weather_26">曇り</string>
-    <!-- Day -->
     <string name="weather_27">曇り</string>
-    <!-- Night -->
     <string name="weather_28">ところにより曇り</string>
-    <!-- Day -->
     <string name="weather_29">ところにより曇り</string>
-    <!-- Night -->
     <string name="weather_30">晴れ</string>
     <string name="weather_31">晴れ</string>
-    <!-- Night -->
     <string name="weather_32">晴れ</string>
-    <!-- Day -->
     <string name="weather_33">晴れ</string>
     <string name="weather_34">雨と雹</string>
     <string name="weather_35">温暖</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">雷雨</string>
     <string name="weather_43">にわか雪</string>
     <string name="weather_44">局地的雷雨</string>
-    <!-- Forecast unavailable -->
 </resources>

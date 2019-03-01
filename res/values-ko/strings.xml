@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">날씨 공급자</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">토네이도</string>
     <string name="weather_1">열대 폭풍우</string>
     <string name="weather_2">허리케인</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">바람</string>
     <string name="weather_24">추움</string>
     <string name="weather_25">흐림</string>
-    <!-- Night -->
     <string name="weather_26">대체로 흐림</string>
-    <!-- Day -->
     <string name="weather_27">대체로 흐림</string>
-    <!-- Night -->
     <string name="weather_28">일부분 흐림</string>
-    <!-- Day -->
     <string name="weather_29">일부분 흐림</string>
-    <!-- Night -->
     <string name="weather_30">맑음</string>
     <string name="weather_31">맑음</string>
-    <!-- Night -->
     <string name="weather_32">온화함</string>
-    <!-- Day -->
     <string name="weather_33">온화함</string>
     <string name="weather_34">비와 우박</string>
     <string name="weather_35">더위</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">뇌우</string>
     <string name="weather_43">소낙눈</string>
     <string name="weather_44">집중 뇌우</string>
-    <!-- Forecast unavailable -->
 </resources>

@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Синоптик</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Торнадо</string>
     <string name="weather_1">Тропическа буря</string>
     <string name="weather_2">Ураган</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Ветровито</string>
     <string name="weather_24">Студено</string>
     <string name="weather_25">Облачно</string>
-    <!-- Night -->
     <string name="weather_26">Предимно облачно</string>
-    <!-- Day -->
     <string name="weather_27">Предимно облачно</string>
-    <!-- Night -->
     <string name="weather_28">Частична облачност</string>
-    <!-- Day -->
     <string name="weather_29">Частична облачност</string>
-    <!-- Night -->
     <string name="weather_30">Ясно</string>
     <string name="weather_31">Слънчево</string>
-    <!-- Night -->
     <string name="weather_32">Ясно</string>
-    <!-- Day -->
     <string name="weather_33">Ясно</string>
     <string name="weather_34">Смесени дъжд и градушка</string>
     <string name="weather_35">Горещо</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Преваляване с гръмотевици</string>
     <string name="weather_43">Снеговалеж</string>
     <string name="weather_44">Изолирани превалявания с гръмотевици</string>
-    <!-- Forecast unavailable -->
 </resources>

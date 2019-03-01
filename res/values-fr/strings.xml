@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Fournisseur de météo</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Tornade</string>
     <string name="weather_1">Tempête tropicale</string>
     <string name="weather_2">Ouragan</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Venteux</string>
     <string name="weather_24">Froid</string>
     <string name="weather_25">Nuageux</string>
-    <!-- Night -->
     <string name="weather_26">Plutôt nuageux</string>
-    <!-- Day -->
     <string name="weather_27">Plutôt nuageux</string>
-    <!-- Night -->
     <string name="weather_28">Partiellement nuageux</string>
-    <!-- Day -->
     <string name="weather_29">Partiellement nuageux</string>
-    <!-- Night -->
     <string name="weather_30">Clair</string>
     <string name="weather_31">Ensoleillé</string>
-    <!-- Night -->
     <string name="weather_32">Belle nuit</string>
-    <!-- Day -->
     <string name="weather_33">Beau temps</string>
     <string name="weather_34">Pluie et grêle</string>
     <string name="weather_35">Chaud</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Orages violents</string>
     <string name="weather_43">Averses de neige</string>
     <string name="weather_44">Orages isolés</string>
-    <!-- Forecast unavailable -->
 </resources>
