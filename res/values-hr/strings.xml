@@ -16,59 +16,50 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Pružatelj vremenskih podataka</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
-  <string name="weather_1">Tropska oluja</string>
-  <string name="weather_2">Uragan</string>
-  <string name="weather_3">Grmljavinske oluje</string>
-  <string name="weather_4">Oluje</string>
-  <string name="weather_5">Kiša i snijeg</string>
-  <string name="weather_6">Kiša i susnježica</string>
-  <string name="weather_7">Snijeg i susnježica</string>
-  <string name="weather_8">Ledena kiša</string>
-  <string name="weather_9">Rominjajuća kiša</string>
-  <string name="weather_10">Ledena kiša</string>
-  <string name="weather_11">Pljuskovi</string>
-  <string name="weather_12">Snježni naleti</string>
-  <string name="weather_13">Slab snijeg</string>
-  <string name="weather_14">Nanosi snijega</string>
-  <string name="weather_15">Snijeg</string>
-  <string name="weather_16">Tuča</string>
-  <string name="weather_17">Susnježica</string>
-  <string name="weather_18">Prašina</string>
-  <string name="weather_19">Maglovito</string>
-  <string name="weather_20">Sumaglica</string>
-  <string name="weather_21">Dim</string>
-  <string name="weather_22">Jak vjetar</string>
-  <string name="weather_23">Vjetrovito</string>
-  <string name="weather_24">Hladno</string>
-  <string name="weather_25">Oblačno</string>
-  <!-- Night -->
-  <string name="weather_26">Pretežno oblačno</string>
-  <!-- Day -->
-  <string name="weather_27">Pretežno oblačno</string>
-  <!-- Night -->
-  <string name="weather_28">Djelomično oblačno</string>
-  <!-- Day -->
-  <string name="weather_29">Djelomično oblačno</string>
-  <!-- Night -->
-  <string name="weather_30">Jasno</string>
-  <string name="weather_31">Sunčano</string>
-  <!-- Night -->
-  <string name="weather_32">Vedro</string>
-  <!-- Day -->
-  <string name="weather_33">Vedro</string>
-  <string name="weather_34">Kiša i tuča</string>
-  <string name="weather_35">Vruće</string>
-  <string name="weather_36">Povremene grmljavinske oluje</string>
-  <string name="weather_37">Mjestimične grmljavinske oluje</string>
-  <string name="weather_38">Mjestimični pljuskovi</string>
-  <string name="weather_39">Gust snijeg</string>
-  <string name="weather_40">Mjestimični snježni pljuskovi</string>
-  <string name="weather_41">Djelomično oblačno</string>
-  <string name="weather_42">Udari groma</string>
-  <string name="weather_43">Povremeni snijeg</string>
-  <string name="weather_44">Olujni pljuskovi</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Pružatelj vremenskih podataka</string>
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Tropska oluja</string>
+    <string name="weather_2">Uragan</string>
+    <string name="weather_3">Grmljavinske oluje</string>
+    <string name="weather_4">Oluje</string>
+    <string name="weather_5">Kiša i snijeg</string>
+    <string name="weather_6">Kiša i susnježica</string>
+    <string name="weather_7">Snijeg i susnježica</string>
+    <string name="weather_8">Ledena kiša</string>
+    <string name="weather_9">Rominjajuća kiša</string>
+    <string name="weather_10">Ledena kiša</string>
+    <string name="weather_11">Pljuskovi</string>
+    <string name="weather_12">Snježni naleti</string>
+    <string name="weather_13">Slab snijeg</string>
+    <string name="weather_14">Nanosi snijega</string>
+    <string name="weather_15">Snijeg</string>
+    <string name="weather_16">Tuča</string>
+    <string name="weather_17">Susnježica</string>
+    <string name="weather_18">Prašina</string>
+    <string name="weather_19">Maglovito</string>
+    <string name="weather_20">Sumaglica</string>
+    <string name="weather_21">Dim</string>
+    <string name="weather_22">Jak vjetar</string>
+    <string name="weather_23">Vjetrovito</string>
+    <string name="weather_24">Hladno</string>
+    <string name="weather_25">Oblačno</string>
+    <string name="weather_26">Pretežno oblačno</string>
+    <string name="weather_27">Pretežno oblačno</string>
+    <string name="weather_28">Djelomično oblačno</string>
+    <string name="weather_29">Djelomično oblačno</string>
+    <string name="weather_30">Jasno</string>
+    <string name="weather_31">Sunčano</string>
+    <string name="weather_32">Vedro</string>
+    <string name="weather_33">Vedro</string>
+    <string name="weather_34">Kiša i tuča</string>
+    <string name="weather_35">Vruće</string>
+    <string name="weather_36">Povremene grmljavinske oluje</string>
+    <string name="weather_37">Mjestimične grmljavinske oluje</string>
+    <string name="weather_38">Mjestimični pljuskovi</string>
+    <string name="weather_39">Gust snijeg</string>
+    <string name="weather_40">Mjestimični snježni pljuskovi</string>
+    <string name="weather_41">Djelomično oblačno</string>
+    <string name="weather_42">Udari groma</string>
+    <string name="weather_43">Povremeni snijeg</string>
+    <string name="weather_44">Olujni pljuskovi</string>
 </resources>

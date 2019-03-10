@@ -16,59 +16,50 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Väderleverantör</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
-  <string name="weather_1">Tropisk storm</string>
-  <string name="weather_2">Orkan</string>
-  <string name="weather_3">Svåra åskoväder</string>
-  <string name="weather_4">Åskväder</string>
-  <string name="weather_5">Snöblandat regn</string>
-  <string name="weather_6">Snöblandat regn</string>
-  <string name="weather_7">Snöblandat regn</string>
-  <string name="weather_8">Underkylt duggregn</string>
-  <string name="weather_9">Duggregn</string>
-  <string name="weather_10">Underkylt regn</string>
-  <string name="weather_11">Skurar</string>
-  <string name="weather_12">Snöbyar</string>
-  <string name="weather_13">Lätt snöfall</string>
-  <string name="weather_14">Kraftiga snöfall</string>
-  <string name="weather_15">Snö</string>
-  <string name="weather_16">Hagel</string>
-  <string name="weather_17">Slask</string>
-  <string name="weather_18">Damm</string>
-  <string name="weather_19">Dimmigt</string>
-  <string name="weather_20">Dimma</string>
-  <string name="weather_21">Rökigt</string>
-  <string name="weather_22">Blåsigt</string>
-  <string name="weather_23">Blåsigt</string>
-  <string name="weather_24">Kallt</string>
-  <string name="weather_25">Molnigt</string>
-  <!-- Night -->
-  <string name="weather_26">Mestadels mulet</string>
-  <!-- Day -->
-  <string name="weather_27">Mestadels mulet</string>
-  <!-- Night -->
-  <string name="weather_28">Delvis mulet</string>
-  <!-- Day -->
-  <string name="weather_29">Delvis mulet</string>
-  <!-- Night -->
-  <string name="weather_30">Klart</string>
-  <string name="weather_31">Soligt</string>
-  <!-- Night -->
-  <string name="weather_32">Skapligt</string>
-  <!-- Day -->
-  <string name="weather_33">Skapligt</string>
-  <string name="weather_34">Regn blandat med hagel</string>
-  <string name="weather_35">Varmt</string>
-  <string name="weather_36">Enstaka åskbyar</string>
-  <string name="weather_37">Spridda åskskurar</string>
-  <string name="weather_38">Spridda regnskurar</string>
-  <string name="weather_39">Kraftigt snöfall</string>
-  <string name="weather_40">Spridda snöbyar</string>
-  <string name="weather_41">Delvis molnigt</string>
-  <string name="weather_42">Åskskurar</string>
-  <string name="weather_43">Snöbyar</string>
-  <string name="weather_44">Enstaka åskskurar</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Väderleverantör</string>
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Tropisk storm</string>
+    <string name="weather_2">Orkan</string>
+    <string name="weather_3">Svåra åskoväder</string>
+    <string name="weather_4">Åskväder</string>
+    <string name="weather_5">Snöblandat regn</string>
+    <string name="weather_6">Snöblandat regn</string>
+    <string name="weather_7">Snöblandat regn</string>
+    <string name="weather_8">Underkylt duggregn</string>
+    <string name="weather_9">Duggregn</string>
+    <string name="weather_10">Underkylt regn</string>
+    <string name="weather_11">Skurar</string>
+    <string name="weather_12">Snöbyar</string>
+    <string name="weather_13">Lätt snöfall</string>
+    <string name="weather_14">Kraftiga snöfall</string>
+    <string name="weather_15">Snö</string>
+    <string name="weather_16">Hagel</string>
+    <string name="weather_17">Slask</string>
+    <string name="weather_18">Damm</string>
+    <string name="weather_19">Dimmigt</string>
+    <string name="weather_20">Dimma</string>
+    <string name="weather_21">Rökigt</string>
+    <string name="weather_22">Blåsigt</string>
+    <string name="weather_23">Blåsigt</string>
+    <string name="weather_24">Kallt</string>
+    <string name="weather_25">Molnigt</string>
+    <string name="weather_26">Mestadels mulet</string>
+    <string name="weather_27">Mestadels mulet</string>
+    <string name="weather_28">Delvis mulet</string>
+    <string name="weather_29">Delvis mulet</string>
+    <string name="weather_30">Klart</string>
+    <string name="weather_31">Soligt</string>
+    <string name="weather_32">Skapligt</string>
+    <string name="weather_33">Skapligt</string>
+    <string name="weather_34">Regn blandat med hagel</string>
+    <string name="weather_35">Varmt</string>
+    <string name="weather_36">Enstaka åskbyar</string>
+    <string name="weather_37">Spridda åskskurar</string>
+    <string name="weather_38">Spridda regnskurar</string>
+    <string name="weather_39">Kraftigt snöfall</string>
+    <string name="weather_40">Spridda snöbyar</string>
+    <string name="weather_41">Delvis molnigt</string>
+    <string name="weather_42">Åskskurar</string>
+    <string name="weather_43">Snöbyar</string>
+    <string name="weather_44">Enstaka åskskurar</string>
 </resources>

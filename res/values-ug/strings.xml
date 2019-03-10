@@ -16,59 +16,50 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">ھاۋارايى تەمىنلىگۈچى</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">قارا قۇيۇن</string>
-  <string name="weather_1">تروپىك بوران-چاپقۇنى</string>
-  <string name="weather_2">دەھشەتلىك بوران</string>
-  <string name="weather_3">قاتتىق گۈلدۈرمامىلىق يامغۇر</string>
-  <string name="weather_4">گۈلدۈرمامىلىق يامغۇر</string>
-  <string name="weather_5">يامغۇر ئارىلاش قار</string>
-  <string name="weather_6">يامغۇر ئارىلاش مۆلدۈر</string>
-  <string name="weather_7">قار ئارىلاش مۆلدۈر</string>
-  <string name="weather_8">توڭ سىم-سىم يامغۇر</string>
-  <string name="weather_9">سىم-سىم يامغۇر</string>
-  <string name="weather_10">توڭ يامغۇر</string>
-  <string name="weather_11">ئۆتكۈنچى يامغۇر</string>
-  <string name="weather_12">قار ئۇچقۇندىسى</string>
-  <string name="weather_13">ئاجىز ئۆتكۈنچى قار</string>
-  <string name="weather_14">قار ئۇچقۇنى</string>
-  <string name="weather_15">قار</string>
-  <string name="weather_16">مۆلدۈر</string>
-  <string name="weather_17">توڭ يامغۇر</string>
-  <string name="weather_18">چاڭ-توزان</string>
-  <string name="weather_19">تۇمانلىق</string>
-  <string name="weather_20">سۇس تۇمان</string>
-  <string name="weather_21">ئىس-تۈتەك</string>
-  <string name="weather_22">كۈچلۈك بوران</string>
-  <string name="weather_23">شاماللىق</string>
-  <string name="weather_24">سوغۇق</string>
-  <string name="weather_25">بۇلۇتلۇق</string>
-  <!-- Night -->
-  <string name="weather_26">بۇلۇتلۇق</string>
-  <!-- Day -->
-  <string name="weather_27">بۇلۇتلۇق</string>
-  <!-- Night -->
-  <string name="weather_28">قىسمەن بۇلۇتلۇق</string>
-  <!-- Day -->
-  <string name="weather_29">قىسمەن بۇلۇتلۇق</string>
-  <!-- Night -->
-  <string name="weather_30">تازىلاش</string>
-  <string name="weather_31">ئوچۇق</string>
-  <!-- Night -->
-  <string name="weather_32">ياخشىراق</string>
-  <!-- Day -->
-  <string name="weather_33">ياخشىراق</string>
-  <string name="weather_34">يامغۇر ئارىلاش مۆلدۈر</string>
-  <string name="weather_35">ئىسسىق</string>
-  <string name="weather_36">قىسمەن گۈلدۈرمامىلىق يامغۇر</string>
-  <string name="weather_37">تارقاق گۈلدۈرمامىلىق يامغۇر</string>
-  <string name="weather_38">تارقاق ئۆتكۈنچى يامغۇر</string>
-  <string name="weather_39">قاتتىق قار</string>
-  <string name="weather_40">تارقاق ئۆتكۈنچى قار</string>
-  <string name="weather_41">قىسمەن بۇلۇتلۇق</string>
-  <string name="weather_42">گۈلدۈرمامالىق ئۆتكۈنچى يامغۇر</string>
-  <string name="weather_43">ئۆتكۈنچى قار</string>
-  <string name="weather_44">قىسمەن گۈلدۈرمامالىق ئۆتكۈنچى يامغۇر</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">ھاۋارايى تەمىنلىگۈچى</string>
+    <string name="weather_0">قارا قۇيۇن</string>
+    <string name="weather_1">تروپىك بوران-چاپقۇنى</string>
+    <string name="weather_2">دەھشەتلىك بوران</string>
+    <string name="weather_3">قاتتىق گۈلدۈرمامىلىق يامغۇر</string>
+    <string name="weather_4">گۈلدۈرمامىلىق يامغۇر</string>
+    <string name="weather_5">يامغۇر ئارىلاش قار</string>
+    <string name="weather_6">يامغۇر ئارىلاش مۆلدۈر</string>
+    <string name="weather_7">قار ئارىلاش مۆلدۈر</string>
+    <string name="weather_8">توڭ سىم-سىم يامغۇر</string>
+    <string name="weather_9">سىم-سىم يامغۇر</string>
+    <string name="weather_10">توڭ يامغۇر</string>
+    <string name="weather_11">ئۆتكۈنچى يامغۇر</string>
+    <string name="weather_12">قار ئۇچقۇندىسى</string>
+    <string name="weather_13">ئاجىز ئۆتكۈنچى قار</string>
+    <string name="weather_14">قار ئۇچقۇنى</string>
+    <string name="weather_15">قار</string>
+    <string name="weather_16">مۆلدۈر</string>
+    <string name="weather_17">توڭ يامغۇر</string>
+    <string name="weather_18">چاڭ-توزان</string>
+    <string name="weather_19">تۇمانلىق</string>
+    <string name="weather_20">سۇس تۇمان</string>
+    <string name="weather_21">ئىس-تۈتەك</string>
+    <string name="weather_22">كۈچلۈك بوران</string>
+    <string name="weather_23">شاماللىق</string>
+    <string name="weather_24">سوغۇق</string>
+    <string name="weather_25">بۇلۇتلۇق</string>
+    <string name="weather_26">بۇلۇتلۇق</string>
+    <string name="weather_27">بۇلۇتلۇق</string>
+    <string name="weather_28">قىسمەن بۇلۇتلۇق</string>
+    <string name="weather_29">قىسمەن بۇلۇتلۇق</string>
+    <string name="weather_30">تازىلاش</string>
+    <string name="weather_31">ئوچۇق</string>
+    <string name="weather_32">ياخشىراق</string>
+    <string name="weather_33">ياخشىراق</string>
+    <string name="weather_34">يامغۇر ئارىلاش مۆلدۈر</string>
+    <string name="weather_35">ئىسسىق</string>
+    <string name="weather_36">قىسمەن گۈلدۈرمامىلىق يامغۇر</string>
+    <string name="weather_37">تارقاق گۈلدۈرمامىلىق يامغۇر</string>
+    <string name="weather_38">تارقاق ئۆتكۈنچى يامغۇر</string>
+    <string name="weather_39">قاتتىق قار</string>
+    <string name="weather_40">تارقاق ئۆتكۈنچى قار</string>
+    <string name="weather_41">قىسمەن بۇلۇتلۇق</string>
+    <string name="weather_42">گۈلدۈرمامالىق ئۆتكۈنچى يامغۇر</string>
+    <string name="weather_43">ئۆتكۈنچى قار</string>
+    <string name="weather_44">قىسمەن گۈلدۈرمامالىق ئۆتكۈنچى يامغۇر</string>
 </resources>

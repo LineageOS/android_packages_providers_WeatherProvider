@@ -16,59 +16,50 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Dostawca pogody</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
-  <string name="weather_1">Burza tropikalna</string>
-  <string name="weather_2">Huragan</string>
-  <string name="weather_3">Gwałtowne burze</string>
-  <string name="weather_4">Burze z piorunami</string>
-  <string name="weather_5">Deszcz ze śniegiem</string>
-  <string name="weather_6">Deszcz ze śniegiem</string>
-  <string name="weather_7">Deszcz ze śniegiem</string>
-  <string name="weather_8">Marznąca mżawka</string>
-  <string name="weather_9">Mżawka</string>
-  <string name="weather_10">Marznący deszcz</string>
-  <string name="weather_11">Przelotny deszcz</string>
-  <string name="weather_12">Śnieżyce</string>
-  <string name="weather_13">Przelotny śnieg</string>
-  <string name="weather_14">Zawieje śnieżne</string>
-  <string name="weather_15">Śnieg</string>
-  <string name="weather_16">Grad</string>
-  <string name="weather_17">Deszcz ze śniegiem</string>
-  <string name="weather_18">Zapylenie</string>
-  <string name="weather_19">Mgliście</string>
-  <string name="weather_20">Zamglenia</string>
-  <string name="weather_21">Zadymienie</string>
-  <string name="weather_22">Porywisty wiatr</string>
-  <string name="weather_23">Wietrznie</string>
-  <string name="weather_24">Zimno</string>
-  <string name="weather_25">Pochmurno</string>
-  <!-- Night -->
-  <string name="weather_26">Duże zachmurzenie</string>
-  <!-- Day -->
-  <string name="weather_27">Duże zachmurzenie</string>
-  <!-- Night -->
-  <string name="weather_28">Częściowe zachmurzenie</string>
-  <!-- Day -->
-  <string name="weather_29">Częściowe zachmurzenie</string>
-  <!-- Night -->
-  <string name="weather_30">Przejrzyście</string>
-  <string name="weather_31">Słonecznie</string>
-  <!-- Night -->
-  <string name="weather_32">Pogodnie</string>
-  <!-- Day -->
-  <string name="weather_33">Pogodnie</string>
-  <string name="weather_34">Deszcz i grad</string>
-  <string name="weather_35">Gorąco</string>
-  <string name="weather_36">Lokalne burze z piorunami</string>
-  <string name="weather_37">Rozproszone burze z piorunami</string>
-  <string name="weather_38">Przelotny deszcz</string>
-  <string name="weather_39">Gęsty śnieg</string>
-  <string name="weather_40">Przelotny śnieg</string>
-  <string name="weather_41">Częściowe zachmurzenie</string>
-  <string name="weather_42">Burze z piorunami</string>
-  <string name="weather_43">Przelotny śnieg</string>
-  <string name="weather_44">Lokalne burze z piorunami</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Dostawca pogody</string>
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Burza tropikalna</string>
+    <string name="weather_2">Huragan</string>
+    <string name="weather_3">Gwałtowne burze</string>
+    <string name="weather_4">Burze z piorunami</string>
+    <string name="weather_5">Deszcz ze śniegiem</string>
+    <string name="weather_6">Deszcz ze śniegiem</string>
+    <string name="weather_7">Deszcz ze śniegiem</string>
+    <string name="weather_8">Marznąca mżawka</string>
+    <string name="weather_9">Mżawka</string>
+    <string name="weather_10">Marznący deszcz</string>
+    <string name="weather_11">Przelotny deszcz</string>
+    <string name="weather_12">Śnieżyce</string>
+    <string name="weather_13">Przelotny śnieg</string>
+    <string name="weather_14">Zawieje śnieżne</string>
+    <string name="weather_15">Śnieg</string>
+    <string name="weather_16">Grad</string>
+    <string name="weather_17">Deszcz ze śniegiem</string>
+    <string name="weather_18">Zapylenie</string>
+    <string name="weather_19">Mgliście</string>
+    <string name="weather_20">Zamglenia</string>
+    <string name="weather_21">Zadymienie</string>
+    <string name="weather_22">Porywisty wiatr</string>
+    <string name="weather_23">Wietrznie</string>
+    <string name="weather_24">Zimno</string>
+    <string name="weather_25">Pochmurno</string>
+    <string name="weather_26">Duże zachmurzenie</string>
+    <string name="weather_27">Duże zachmurzenie</string>
+    <string name="weather_28">Częściowe zachmurzenie</string>
+    <string name="weather_29">Częściowe zachmurzenie</string>
+    <string name="weather_30">Przejrzyście</string>
+    <string name="weather_31">Słonecznie</string>
+    <string name="weather_32">Pogodnie</string>
+    <string name="weather_33">Pogodnie</string>
+    <string name="weather_34">Deszcz i grad</string>
+    <string name="weather_35">Gorąco</string>
+    <string name="weather_36">Lokalne burze z piorunami</string>
+    <string name="weather_37">Rozproszone burze z piorunami</string>
+    <string name="weather_38">Przelotny deszcz</string>
+    <string name="weather_39">Gęsty śnieg</string>
+    <string name="weather_40">Przelotny śnieg</string>
+    <string name="weather_41">Częściowe zachmurzenie</string>
+    <string name="weather_42">Burze z piorunami</string>
+    <string name="weather_43">Przelotny śnieg</string>
+    <string name="weather_44">Lokalne burze z piorunami</string>
 </resources>

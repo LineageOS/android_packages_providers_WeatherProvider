@@ -16,59 +16,50 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Poskytovatel počasí</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornádo</string>
-  <string name="weather_1">Tropická bouře</string>
-  <string name="weather_2">Hurikán</string>
-  <string name="weather_3">Silné bouřky</string>
-  <string name="weather_4">Bouřky</string>
-  <string name="weather_5">Déšť se sněhem</string>
-  <string name="weather_6">Dešťové přeháňky se sněhem</string>
-  <string name="weather_7">Sněhové přeháňky s deštěm</string>
-  <string name="weather_8">Mrznoucí mrholení</string>
-  <string name="weather_9">Mrholení</string>
-  <string name="weather_10">Mrznoucí déšť</string>
-  <string name="weather_11">Přeháňky</string>
-  <string name="weather_12">Sněhové přeháňky</string>
-  <string name="weather_13">Slabé přeháňky se sněhem</string>
-  <string name="weather_14">Zvířený sníh</string>
-  <string name="weather_15">Sníh</string>
-  <string name="weather_16">Krupobití</string>
-  <string name="weather_17">Plískanice</string>
-  <string name="weather_18">Prašno</string>
-  <string name="weather_19">Mlhavo</string>
-  <string name="weather_20">Opar</string>
-  <string name="weather_21">Smog</string>
-  <string name="weather_22">Bouřlivo</string>
-  <string name="weather_23">Větrno</string>
-  <string name="weather_24">Chladno</string>
-  <string name="weather_25">Zataženo</string>
-  <!-- Night -->
-  <string name="weather_26">Převážně zataženo</string>
-  <!-- Day -->
-  <string name="weather_27">Převážně zataženo</string>
-  <!-- Night -->
-  <string name="weather_28">Polojasno</string>
-  <!-- Day -->
-  <string name="weather_29">Polojasno</string>
-  <!-- Night -->
-  <string name="weather_30">Jasno</string>
-  <string name="weather_31">Slunečno</string>
-  <!-- Night -->
-  <string name="weather_32">Hezky</string>
-  <!-- Day -->
-  <string name="weather_33">Hezky</string>
-  <string name="weather_34">Déšť s kroupami</string>
-  <string name="weather_35">Horko</string>
-  <string name="weather_36">Místy bouřky</string>
-  <string name="weather_37">Občasné bouřky</string>
-  <string name="weather_38">Ojediněle přeháňky</string>
-  <string name="weather_39">Silné sněžení</string>
-  <string name="weather_40">Ojedinělé sněhové přeháňky</string>
-  <string name="weather_41">Polojasno</string>
-  <string name="weather_42">Bouřkové přeháňky</string>
-  <string name="weather_43">Sněhové přeháňky</string>
-  <string name="weather_44">Místní silný déšť</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Poskytovatel počasí</string>
+    <string name="weather_0">Tornádo</string>
+    <string name="weather_1">Tropická bouře</string>
+    <string name="weather_2">Hurikán</string>
+    <string name="weather_3">Silné bouřky</string>
+    <string name="weather_4">Bouřky</string>
+    <string name="weather_5">Déšť se sněhem</string>
+    <string name="weather_6">Dešťové přeháňky se sněhem</string>
+    <string name="weather_7">Sněhové přeháňky s deštěm</string>
+    <string name="weather_8">Mrznoucí mrholení</string>
+    <string name="weather_9">Mrholení</string>
+    <string name="weather_10">Mrznoucí déšť</string>
+    <string name="weather_11">Přeháňky</string>
+    <string name="weather_12">Sněhové přeháňky</string>
+    <string name="weather_13">Slabé přeháňky se sněhem</string>
+    <string name="weather_14">Zvířený sníh</string>
+    <string name="weather_15">Sníh</string>
+    <string name="weather_16">Krupobití</string>
+    <string name="weather_17">Plískanice</string>
+    <string name="weather_18">Prašno</string>
+    <string name="weather_19">Mlhavo</string>
+    <string name="weather_20">Opar</string>
+    <string name="weather_21">Smog</string>
+    <string name="weather_22">Bouřlivo</string>
+    <string name="weather_23">Větrno</string>
+    <string name="weather_24">Chladno</string>
+    <string name="weather_25">Zataženo</string>
+    <string name="weather_26">Převážně zataženo</string>
+    <string name="weather_27">Převážně zataženo</string>
+    <string name="weather_28">Polojasno</string>
+    <string name="weather_29">Polojasno</string>
+    <string name="weather_30">Jasno</string>
+    <string name="weather_31">Slunečno</string>
+    <string name="weather_32">Hezky</string>
+    <string name="weather_33">Hezky</string>
+    <string name="weather_34">Déšť s kroupami</string>
+    <string name="weather_35">Horko</string>
+    <string name="weather_36">Místy bouřky</string>
+    <string name="weather_37">Občasné bouřky</string>
+    <string name="weather_38">Ojediněle přeháňky</string>
+    <string name="weather_39">Silné sněžení</string>
+    <string name="weather_40">Ojedinělé sněhové přeháňky</string>
+    <string name="weather_41">Polojasno</string>
+    <string name="weather_42">Bouřkové přeháňky</string>
+    <string name="weather_43">Sněhové přeháňky</string>
+    <string name="weather_44">Místní silný déšť</string>
 </resources>
