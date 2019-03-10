@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">ספק תחזית מזג אוויר</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">טורנדו</string>
     <string name="weather_1">סופה טרופית</string>
     <string name="weather_2">הוריקן</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">משבי רוח</string>
     <string name="weather_24">קר</string>
     <string name="weather_25">מעונן</string>
-    <!-- Night -->
     <string name="weather_26">מעונן ברובו</string>
-    <!-- Day -->
     <string name="weather_27">מעונן ברובו</string>
-    <!-- Night -->
     <string name="weather_28">מעונן חלקית</string>
-    <!-- Day -->
     <string name="weather_29">מעונן חלקית</string>
-    <!-- Night -->
     <string name="weather_30">בהיר</string>
     <string name="weather_31">בהיר</string>
-    <!-- Night -->
     <string name="weather_32">בהיר</string>
-    <!-- Day -->
     <string name="weather_33">בהיר</string>
     <string name="weather_34">גשם מעורב בברד</string>
     <string name="weather_35">חם</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">סופות גשם ורעמים</string>
     <string name="weather_43">ממטרי שלג</string>
     <string name="weather_44">סופות גשם ורעמים בודדות</string>
-    <!-- Forecast unavailable -->
 </resources>

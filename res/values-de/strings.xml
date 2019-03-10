@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Wetterdatenanbieter</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Tornado</string>
     <string name="weather_1">Tropensturm</string>
     <string name="weather_2">Hurrikan</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Windig</string>
     <string name="weather_24">Kalt</string>
     <string name="weather_25">Bewölkt</string>
-    <!-- Night -->
     <string name="weather_26">Stark bewölkt</string>
-    <!-- Day -->
     <string name="weather_27">Stark bewölkt</string>
-    <!-- Night -->
     <string name="weather_28">Teilweise bewölkt</string>
-    <!-- Day -->
     <string name="weather_29">Teilweise bewölkt</string>
-    <!-- Night -->
     <string name="weather_30">Klar</string>
     <string name="weather_31">Sonnig</string>
-    <!-- Night -->
     <string name="weather_32">Heiter</string>
-    <!-- Day -->
     <string name="weather_33">Heiter</string>
     <string name="weather_34">Wechselnd Regen und Hagel</string>
     <string name="weather_35">Heiß</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Gewitterschauer</string>
     <string name="weather_43">Schneeschauer</string>
     <string name="weather_44">Vereinzelte Gewitterschauer</string>
-    <!-- Forecast unavailable -->
 </resources>

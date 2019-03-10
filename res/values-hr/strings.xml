@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Pružatelj vremenskih podataka</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Tornado</string>
     <string name="weather_1">Tropska oluja</string>
     <string name="weather_2">Uragan</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Vjetrovito</string>
     <string name="weather_24">Hladno</string>
     <string name="weather_25">Oblačno</string>
-    <!-- Night -->
     <string name="weather_26">Pretežno oblačno</string>
-    <!-- Day -->
     <string name="weather_27">Pretežno oblačno</string>
-    <!-- Night -->
     <string name="weather_28">Djelomično oblačno</string>
-    <!-- Day -->
     <string name="weather_29">Djelomično oblačno</string>
-    <!-- Night -->
     <string name="weather_30">Jasno</string>
     <string name="weather_31">Sunčano</string>
-    <!-- Night -->
     <string name="weather_32">Vedro</string>
-    <!-- Day -->
     <string name="weather_33">Vedro</string>
     <string name="weather_34">Kiša i tuča</string>
     <string name="weather_35">Vruće</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Udari groma</string>
     <string name="weather_43">Povremeni snijeg</string>
     <string name="weather_44">Olujni pljuskovi</string>
-    <!-- Forecast unavailable -->
 </resources>

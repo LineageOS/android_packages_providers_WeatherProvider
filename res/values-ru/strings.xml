@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Провайдер погоды</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Торнадо</string>
     <string name="weather_1">Шторм</string>
     <string name="weather_2">Ураган</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Ветрено</string>
     <string name="weather_24">Холодно</string>
     <string name="weather_25">Пасмурно</string>
-    <!-- Night -->
     <string name="weather_26">Облачно с прояснениями</string>
-    <!-- Day -->
     <string name="weather_27">Облачно с прояснениями</string>
-    <!-- Night -->
     <string name="weather_28">Малооблачно</string>
-    <!-- Day -->
     <string name="weather_29">Малооблачно</string>
-    <!-- Night -->
     <string name="weather_30">Ясно</string>
     <string name="weather_31">Солнечно</string>
-    <!-- Night -->
     <string name="weather_32">Ясно</string>
-    <!-- Day -->
     <string name="weather_33">Ясно</string>
     <string name="weather_34">Дождь с градом</string>
     <string name="weather_35">Жарко</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Грозовые ливни</string>
     <string name="weather_43">Снег</string>
     <string name="weather_44">Местами грозы</string>
-    <!-- Forecast unavailable -->
 </resources>

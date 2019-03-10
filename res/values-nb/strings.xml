@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Værmeldingsleverandør</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Tornado</string>
     <string name="weather_1">Tropisk Storm</string>
     <string name="weather_2">Orkan</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Kuling</string>
     <string name="weather_24">Kaldt</string>
     <string name="weather_25">Overskyet</string>
-    <!-- Night -->
     <string name="weather_26">For det meste skyet</string>
-    <!-- Day -->
     <string name="weather_27">For det meste skyet</string>
-    <!-- Night -->
     <string name="weather_28">Delvis Skyet</string>
-    <!-- Day -->
     <string name="weather_29">Delvis Skyet</string>
-    <!-- Night -->
     <string name="weather_30">Klart</string>
     <string name="weather_31">Solfylt Vær</string>
-    <!-- Night -->
     <string name="weather_32">Pent Vær</string>
-    <!-- Day -->
     <string name="weather_33">Pent Vær</string>
     <string name="weather_34">Blandet Regn og Hagl</string>
     <string name="weather_35">Varmt</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Tordenvær</string>
     <string name="weather_43">Snøbyger</string>
     <string name="weather_44">Isolerte Tordenbyger</string>
-    <!-- Forecast unavailable -->
 </resources>

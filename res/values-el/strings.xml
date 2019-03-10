@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Πάροχος καιρού</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Ανεμοστρόβιλος</string>
     <string name="weather_1">Τροπική καταιγίδα</string>
     <string name="weather_2">Τυφώνας</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Ανεμώδης</string>
     <string name="weather_24">Κρύος</string>
     <string name="weather_25">Συννεφιά</string>
-    <!-- Night -->
     <string name="weather_26">Νεφελώδης</string>
-    <!-- Day -->
     <string name="weather_27">Νεφελώδης</string>
-    <!-- Night -->
     <string name="weather_28">Αίθριος</string>
-    <!-- Day -->
     <string name="weather_29">Αίθριος</string>
-    <!-- Night -->
     <string name="weather_30">Καθαρός</string>
     <string name="weather_31">Ηλιόλουστος</string>
-    <!-- Night -->
     <string name="weather_32">Καλοκαιρία</string>
-    <!-- Day -->
     <string name="weather_33">Καλοκαιρία</string>
     <string name="weather_34">Βροχή και χαλάζι</string>
     <string name="weather_35">Ζεστός</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Καταιγίδες</string>
     <string name="weather_43">Χιονοπτώσεις</string>
     <string name="weather_44">Μεμονωμένες καταιγίδες</string>
-    <!-- Forecast unavailable -->
 </resources>

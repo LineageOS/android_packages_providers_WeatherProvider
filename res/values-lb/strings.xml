@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Wieder-Provider</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Tornado</string>
     <string name="weather_1">Tropesche Stuerm</string>
     <string name="weather_2">Hurrikan</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Vill Wand</string>
     <string name="weather_24">Kal</string>
     <string name="weather_25">Wollekeg</string>
-    <!-- Night -->
     <string name="weather_26">Staark wollekeg</string>
-    <!-- Day -->
     <string name="weather_27">Staark wollekeg</string>
-    <!-- Night -->
     <string name="weather_28">Deels wollekeg</string>
-    <!-- Day -->
     <string name="weather_29">Deels wollekeg</string>
-    <!-- Night -->
     <string name="weather_30">Kloer</string>
     <string name="weather_31">Sonneg</string>
-    <!-- Night -->
     <string name="weather_32">Schéin</string>
-    <!-- Day -->
     <string name="weather_33">Schéin</string>
     <string name="weather_34">Reen a Knëppelsteng gemëscht</string>
     <string name="weather_35">Waarm</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Donnerwiederschaueren</string>
     <string name="weather_43">Schnéischaueren</string>
     <string name="weather_44">Lokal Donnerwiederschaueren</string>
-    <!-- Forecast unavailable -->
 </resources>

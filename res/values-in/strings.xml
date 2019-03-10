@@ -17,7 +17,6 @@
 -->
 <resources>
     <string name="app_name">Penyedia Cuaca</string>
-    <!-- Weather - Weather codes -->
     <string name="weather_0">Topan</string>
     <string name="weather_1">Badai Tropis</string>
     <string name="weather_2">Badai</string>
@@ -44,20 +43,13 @@
     <string name="weather_23">Berangin</string>
     <string name="weather_24">Dingin</string>
     <string name="weather_25">Berawan</string>
-    <!-- Night -->
     <string name="weather_26">Sebagian Besar Berawan</string>
-    <!-- Day -->
     <string name="weather_27">Sebagian Besar Berawan</string>
-    <!-- Night -->
     <string name="weather_28">Sebagian Berawan</string>
-    <!-- Day -->
     <string name="weather_29">Sebagian Berawan</string>
-    <!-- Night -->
     <string name="weather_30">Cerah</string>
     <string name="weather_31">Cerah</string>
-    <!-- Night -->
     <string name="weather_32">Baik</string>
-    <!-- Day -->
     <string name="weather_33">Baik</string>
     <string name="weather_34">Campuran Hujan dan Hujan Es</string>
     <string name="weather_35">Panas</string>
@@ -70,5 +62,4 @@
     <string name="weather_42">Petir disertai hujan</string>
     <string name="weather_43">Salju Ringan</string>
     <string name="weather_44">Hujan Gerimis dengan Petir Terisolasi</string>
-    <!-- Forecast unavailable -->
 </resources>
