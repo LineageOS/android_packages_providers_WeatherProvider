@@ -16,59 +16,50 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Wetterdatenanbieter</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
-  <string name="weather_1">Tropensturm</string>
-  <string name="weather_2">Hurrikan</string>
-  <string name="weather_3">Heftige Gewitter</string>
-  <string name="weather_4">Gewitter</string>
-  <string name="weather_5">Wechselnd Regen und Schnee</string>
-  <string name="weather_6">Wechselnd Regen und Schneeregen</string>
-  <string name="weather_7">Wechselnd Schnee und Schneeregen</string>
-  <string name="weather_8">Gefrierender Niesel</string>
-  <string name="weather_9">Niesel</string>
-  <string name="weather_10">Gefrierender Regen</string>
-  <string name="weather_11">Schauer</string>
-  <string name="weather_12">Schneegestöber</string>
-  <string name="weather_13">Leichte Schneeschauer</string>
-  <string name="weather_14">Schneesturm</string>
-  <string name="weather_15">Schnee</string>
-  <string name="weather_16">Hagel</string>
-  <string name="weather_17">Schneeregen</string>
-  <string name="weather_18">Staubig</string>
-  <string name="weather_19">Neblig</string>
-  <string name="weather_20">Dunst</string>
-  <string name="weather_21">Rauch</string>
-  <string name="weather_22">Stürmisch</string>
-  <string name="weather_23">Windig</string>
-  <string name="weather_24">Kalt</string>
-  <string name="weather_25">Bewölkt</string>
-  <!-- Night -->
-  <string name="weather_26">Stark bewölkt</string>
-  <!-- Day -->
-  <string name="weather_27">Stark bewölkt</string>
-  <!-- Night -->
-  <string name="weather_28">Teilweise bewölkt</string>
-  <!-- Day -->
-  <string name="weather_29">Teilweise bewölkt</string>
-  <!-- Night -->
-  <string name="weather_30">Klar</string>
-  <string name="weather_31">Sonnig</string>
-  <!-- Night -->
-  <string name="weather_32">Heiter</string>
-  <!-- Day -->
-  <string name="weather_33">Heiter</string>
-  <string name="weather_34">Wechselnd Regen und Hagel</string>
-  <string name="weather_35">Heiß</string>
-  <string name="weather_36">Vereinzelte Gewitter</string>
-  <string name="weather_37">Einzelne Gewitter</string>
-  <string name="weather_38">Einzelne Schauer</string>
-  <string name="weather_39">Heftiger Schneefall</string>
-  <string name="weather_40">Einzelne Schneeschauer</string>
-  <string name="weather_41">Teilweise bewölkt</string>
-  <string name="weather_42">Gewitterschauer</string>
-  <string name="weather_43">Schneeschauer</string>
-  <string name="weather_44">Vereinzelte Gewitterschauer</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Wetterdatenanbieter</string>
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Tropensturm</string>
+    <string name="weather_2">Hurrikan</string>
+    <string name="weather_3">Heftige Gewitter</string>
+    <string name="weather_4">Gewitter</string>
+    <string name="weather_5">Wechselnd Regen und Schnee</string>
+    <string name="weather_6">Wechselnd Regen und Schneeregen</string>
+    <string name="weather_7">Wechselnd Schnee und Schneeregen</string>
+    <string name="weather_8">Gefrierender Niesel</string>
+    <string name="weather_9">Niesel</string>
+    <string name="weather_10">Gefrierender Regen</string>
+    <string name="weather_11">Schauer</string>
+    <string name="weather_12">Schneegestöber</string>
+    <string name="weather_13">Leichte Schneeschauer</string>
+    <string name="weather_14">Schneesturm</string>
+    <string name="weather_15">Schnee</string>
+    <string name="weather_16">Hagel</string>
+    <string name="weather_17">Schneeregen</string>
+    <string name="weather_18">Staubig</string>
+    <string name="weather_19">Neblig</string>
+    <string name="weather_20">Dunst</string>
+    <string name="weather_21">Rauch</string>
+    <string name="weather_22">Stürmisch</string>
+    <string name="weather_23">Windig</string>
+    <string name="weather_24">Kalt</string>
+    <string name="weather_25">Bewölkt</string>
+    <string name="weather_26">Stark bewölkt</string>
+    <string name="weather_27">Stark bewölkt</string>
+    <string name="weather_28">Teilweise bewölkt</string>
+    <string name="weather_29">Teilweise bewölkt</string>
+    <string name="weather_30">Klar</string>
+    <string name="weather_31">Sonnig</string>
+    <string name="weather_32">Heiter</string>
+    <string name="weather_33">Heiter</string>
+    <string name="weather_34">Wechselnd Regen und Hagel</string>
+    <string name="weather_35">Heiß</string>
+    <string name="weather_36">Vereinzelte Gewitter</string>
+    <string name="weather_37">Einzelne Gewitter</string>
+    <string name="weather_38">Einzelne Schauer</string>
+    <string name="weather_39">Heftiger Schneefall</string>
+    <string name="weather_40">Einzelne Schneeschauer</string>
+    <string name="weather_41">Teilweise bewölkt</string>
+    <string name="weather_42">Gewitterschauer</string>
+    <string name="weather_43">Schneeschauer</string>
+    <string name="weather_44">Vereinzelte Gewitterschauer</string>
 </resources>

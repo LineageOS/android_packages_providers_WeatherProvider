@@ -16,59 +16,50 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Weeraanbieder</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
-  <string name="weather_1">Tropische storm</string>
-  <string name="weather_2">Tropische cycloon</string>
-  <string name="weather_3">Zwaar onweer</string>
-  <string name="weather_4">Onweer</string>
-  <string name="weather_5">Regen en sneeuw</string>
-  <string name="weather_6">Regen en natte sneeuw</string>
-  <string name="weather_7">Sneeuw en natte sneeuw</string>
-  <string name="weather_8">IJzel</string>
-  <string name="weather_9">Motregen</string>
-  <string name="weather_10">Aanvriezende regen</string>
-  <string name="weather_11">Buien</string>
-  <string name="weather_12">Sneeuwjacht</string>
-  <string name="weather_13">Lichte sneeuwbuien</string>
-  <string name="weather_14">Sneeuwstorm</string>
-  <string name="weather_15">Sneeuw</string>
-  <string name="weather_16">Hagel</string>
-  <string name="weather_17">Natte sneeuw</string>
-  <string name="weather_18">Stof</string>
-  <string name="weather_19">Mistig</string>
-  <string name="weather_20">Heiig</string>
-  <string name="weather_21">Walmend</string>
-  <string name="weather_22">Stormachtig</string>
-  <string name="weather_23">Winderig</string>
-  <string name="weather_24">Koud</string>
-  <string name="weather_25">Bewolkt</string>
-  <!-- Night -->
-  <string name="weather_26">Overwegend bewolkt</string>
-  <!-- Day -->
-  <string name="weather_27">Overwegend bewolkt</string>
-  <!-- Night -->
-  <string name="weather_28">Deels bewolkt</string>
-  <!-- Day -->
-  <string name="weather_29">Deels bewolkt</string>
-  <!-- Night -->
-  <string name="weather_30">Helder</string>
-  <string name="weather_31">Zonnig</string>
-  <!-- Night -->
-  <string name="weather_32">Mooi</string>
-  <!-- Day -->
-  <string name="weather_33">Mooi</string>
-  <string name="weather_34">Regen en hagel</string>
-  <string name="weather_35">Heet</string>
-  <string name="weather_36">Geïsoleerde onweersbuien</string>
-  <string name="weather_37">Verspreide onweersbuien</string>
-  <string name="weather_38">Verspreide buien</string>
-  <string name="weather_39">Hevige sneeuwbuien</string>
-  <string name="weather_40">Verspreide sneeuwbuien</string>
-  <string name="weather_41">Deels bewolkt</string>
-  <string name="weather_42">Onweersbuien</string>
-  <string name="weather_43">Sneeuwstormen</string>
-  <string name="weather_44">Geïsoleerde onweersbuien</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Weeraanbieder</string>
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Tropische storm</string>
+    <string name="weather_2">Tropische cycloon</string>
+    <string name="weather_3">Zwaar onweer</string>
+    <string name="weather_4">Onweer</string>
+    <string name="weather_5">Regen en sneeuw</string>
+    <string name="weather_6">Regen en natte sneeuw</string>
+    <string name="weather_7">Sneeuw en natte sneeuw</string>
+    <string name="weather_8">IJzel</string>
+    <string name="weather_9">Motregen</string>
+    <string name="weather_10">Aanvriezende regen</string>
+    <string name="weather_11">Buien</string>
+    <string name="weather_12">Sneeuwjacht</string>
+    <string name="weather_13">Lichte sneeuwbuien</string>
+    <string name="weather_14">Sneeuwstorm</string>
+    <string name="weather_15">Sneeuw</string>
+    <string name="weather_16">Hagel</string>
+    <string name="weather_17">Natte sneeuw</string>
+    <string name="weather_18">Stof</string>
+    <string name="weather_19">Mistig</string>
+    <string name="weather_20">Heiig</string>
+    <string name="weather_21">Walmend</string>
+    <string name="weather_22">Stormachtig</string>
+    <string name="weather_23">Winderig</string>
+    <string name="weather_24">Koud</string>
+    <string name="weather_25">Bewolkt</string>
+    <string name="weather_26">Overwegend bewolkt</string>
+    <string name="weather_27">Overwegend bewolkt</string>
+    <string name="weather_28">Deels bewolkt</string>
+    <string name="weather_29">Deels bewolkt</string>
+    <string name="weather_30">Helder</string>
+    <string name="weather_31">Zonnig</string>
+    <string name="weather_32">Mooi</string>
+    <string name="weather_33">Mooi</string>
+    <string name="weather_34">Regen en hagel</string>
+    <string name="weather_35">Heet</string>
+    <string name="weather_36">Geïsoleerde onweersbuien</string>
+    <string name="weather_37">Verspreide onweersbuien</string>
+    <string name="weather_38">Verspreide buien</string>
+    <string name="weather_39">Hevige sneeuwbuien</string>
+    <string name="weather_40">Verspreide sneeuwbuien</string>
+    <string name="weather_41">Deels bewolkt</string>
+    <string name="weather_42">Onweersbuien</string>
+    <string name="weather_43">Sneeuwstormen</string>
+    <string name="weather_44">Geïsoleerde onweersbuien</string>
 </resources>

@@ -16,59 +16,50 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Πάροχος καιρού</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Ανεμοστρόβιλος</string>
-  <string name="weather_1">Τροπική καταιγίδα</string>
-  <string name="weather_2">Τυφώνας</string>
-  <string name="weather_3">Έντονες καταιγίδες</string>
-  <string name="weather_4">Καταιγίδες</string>
-  <string name="weather_5">Βροχή και χιόνι</string>
-  <string name="weather_6">Βροχή και χιονόνερο</string>
-  <string name="weather_7">Χιόνι και χιονόνερο</string>
-  <string name="weather_8">Παγωμένο ψιλόβροχο</string>
-  <string name="weather_9">Ψιλόβροχο</string>
-  <string name="weather_10">Παγωμένη βροχή</string>
-  <string name="weather_11">Βροχοπτώσεις</string>
-  <string name="weather_12">Χιονόπτωση</string>
-  <string name="weather_13">Ασθενής χιονόπτωση</string>
-  <string name="weather_14">Ισχυρή χιονόπτωση</string>
-  <string name="weather_15">Χιόνι</string>
-  <string name="weather_16">Χαλάζι</string>
-  <string name="weather_17">Χιονόνερο</string>
-  <string name="weather_18">Σκόνη</string>
-  <string name="weather_19">Ομιχλώδης</string>
-  <string name="weather_20">Ομίχλη</string>
-  <string name="weather_21">Αιθαλομίχλη</string>
-  <string name="weather_22">Έντονα φαινόμενα</string>
-  <string name="weather_23">Ανεμώδης</string>
-  <string name="weather_24">Κρύος</string>
-  <string name="weather_25">Συννεφιά</string>
-  <!-- Night -->
-  <string name="weather_26">Νεφελώδης</string>
-  <!-- Day -->
-  <string name="weather_27">Νεφελώδης</string>
-  <!-- Night -->
-  <string name="weather_28">Αίθριος</string>
-  <!-- Day -->
-  <string name="weather_29">Αίθριος</string>
-  <!-- Night -->
-  <string name="weather_30">Καθαρός</string>
-  <string name="weather_31">Ηλιόλουστος</string>
-  <!-- Night -->
-  <string name="weather_32">Καλοκαιρία</string>
-  <!-- Day -->
-  <string name="weather_33">Καλοκαιρία</string>
-  <string name="weather_34">Βροχή και χαλάζι</string>
-  <string name="weather_35">Ζεστός</string>
-  <string name="weather_36">Μεμονωμένες καταιγίδες</string>
-  <string name="weather_37">Σποραδικές καταιγίδες</string>
-  <string name="weather_38">Σποραδικές βροχοπτώσεις</string>
-  <string name="weather_39">Ισχυρή χιονόπτωση</string>
-  <string name="weather_40">Σποραδικές χιονοπτώσεις</string>
-  <string name="weather_41">Αίθριος</string>
-  <string name="weather_42">Καταιγίδες</string>
-  <string name="weather_43">Χιονοπτώσεις</string>
-  <string name="weather_44">Μεμονωμένες καταιγίδες</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Πάροχος καιρού</string>
+    <string name="weather_0">Ανεμοστρόβιλος</string>
+    <string name="weather_1">Τροπική καταιγίδα</string>
+    <string name="weather_2">Τυφώνας</string>
+    <string name="weather_3">Έντονες καταιγίδες</string>
+    <string name="weather_4">Καταιγίδες</string>
+    <string name="weather_5">Βροχή και χιόνι</string>
+    <string name="weather_6">Βροχή και χιονόνερο</string>
+    <string name="weather_7">Χιόνι και χιονόνερο</string>
+    <string name="weather_8">Παγωμένο ψιλόβροχο</string>
+    <string name="weather_9">Ψιλόβροχο</string>
+    <string name="weather_10">Παγωμένη βροχή</string>
+    <string name="weather_11">Βροχοπτώσεις</string>
+    <string name="weather_12">Χιονόπτωση</string>
+    <string name="weather_13">Ασθενής χιονόπτωση</string>
+    <string name="weather_14">Ισχυρή χιονόπτωση</string>
+    <string name="weather_15">Χιόνι</string>
+    <string name="weather_16">Χαλάζι</string>
+    <string name="weather_17">Χιονόνερο</string>
+    <string name="weather_18">Σκόνη</string>
+    <string name="weather_19">Ομιχλώδης</string>
+    <string name="weather_20">Ομίχλη</string>
+    <string name="weather_21">Αιθαλομίχλη</string>
+    <string name="weather_22">Έντονα φαινόμενα</string>
+    <string name="weather_23">Ανεμώδης</string>
+    <string name="weather_24">Κρύος</string>
+    <string name="weather_25">Συννεφιά</string>
+    <string name="weather_26">Νεφελώδης</string>
+    <string name="weather_27">Νεφελώδης</string>
+    <string name="weather_28">Αίθριος</string>
+    <string name="weather_29">Αίθριος</string>
+    <string name="weather_30">Καθαρός</string>
+    <string name="weather_31">Ηλιόλουστος</string>
+    <string name="weather_32">Καλοκαιρία</string>
+    <string name="weather_33">Καλοκαιρία</string>
+    <string name="weather_34">Βροχή και χαλάζι</string>
+    <string name="weather_35">Ζεστός</string>
+    <string name="weather_36">Μεμονωμένες καταιγίδες</string>
+    <string name="weather_37">Σποραδικές καταιγίδες</string>
+    <string name="weather_38">Σποραδικές βροχοπτώσεις</string>
+    <string name="weather_39">Ισχυρή χιονόπτωση</string>
+    <string name="weather_40">Σποραδικές χιονοπτώσεις</string>
+    <string name="weather_41">Αίθριος</string>
+    <string name="weather_42">Καταιγίδες</string>
+    <string name="weather_43">Χιονοπτώσεις</string>
+    <string name="weather_44">Μεμονωμένες καταιγίδες</string>
 </resources>

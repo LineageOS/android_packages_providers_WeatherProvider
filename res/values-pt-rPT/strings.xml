@@ -16,59 +16,50 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Fornecedor de tempo</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
-  <string name="weather_1">Tempestade tropical</string>
-  <string name="weather_2">Furacão</string>
-  <string name="weather_3">Trovoada Intensa</string>
-  <string name="weather_4">Trovoadas</string>
-  <string name="weather_5">Misto de Chuva e Neve</string>
-  <string name="weather_6">Misto de Chuva e Granizo</string>
-  <string name="weather_7">Misto de Neve e Granizo</string>
-  <string name="weather_8">Chuviscos Congelantes</string>
-  <string name="weather_9">Chuviscos</string>
-  <string name="weather_10">Chuva Congelante</string>
-  <string name="weather_11">Aguaceiros</string>
-  <string name="weather_12">Queda de neve</string>
-  <string name="weather_13">Queda de neve ligeira</string>
-  <string name="weather_14">Tempestade de Neve</string>
-  <string name="weather_15">Neve</string>
-  <string name="weather_16">Saraiva</string>
-  <string name="weather_17">Granizo</string>
-  <string name="weather_18">Poeira</string>
-  <string name="weather_19">Nevoeiro</string>
-  <string name="weather_20">Neblina</string>
-  <string name="weather_21">Fumarento</string>
-  <string name="weather_22">Ventos Fortes</string>
-  <string name="weather_23">Ventoso</string>
-  <string name="weather_24">Frio</string>
-  <string name="weather_25">Nublado</string>
-  <!-- Night -->
-  <string name="weather_26">Muito Nublado</string>
-  <!-- Day -->
-  <string name="weather_27">Muito Nublado</string>
-  <!-- Night -->
-  <string name="weather_28">Parcialmente Nublado</string>
-  <!-- Day -->
-  <string name="weather_29">Parcialmente Nublado</string>
-  <!-- Night -->
-  <string name="weather_30">Limpo</string>
-  <string name="weather_31">Ensolarado</string>
-  <!-- Night -->
-  <string name="weather_32">Razoável</string>
-  <!-- Day -->
-  <string name="weather_33">Razoável</string>
-  <string name="weather_34">Misto de Chuva e Saraiva</string>
-  <string name="weather_35">Quente</string>
-  <string name="weather_36">Trovoadas Isoladas</string>
-  <string name="weather_37">Trovoadas Dispersas</string>
-  <string name="weather_38">Aguaceiros Dispersos</string>
-  <string name="weather_39">Neve Forte</string>
-  <string name="weather_40">Chuviscos de Neve Dispersa</string>
-  <string name="weather_41">Parcialmente Nublado</string>
-  <string name="weather_42">Chuvas com Trovoadas</string>
-  <string name="weather_43">Chuva de Neve</string>
-  <string name="weather_44">Chuvas com Trovoadas Isoladas</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Fornecedor de tempo</string>
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Tempestade tropical</string>
+    <string name="weather_2">Furacão</string>
+    <string name="weather_3">Trovoada Intensa</string>
+    <string name="weather_4">Trovoadas</string>
+    <string name="weather_5">Misto de Chuva e Neve</string>
+    <string name="weather_6">Misto de Chuva e Granizo</string>
+    <string name="weather_7">Misto de Neve e Granizo</string>
+    <string name="weather_8">Chuviscos Congelantes</string>
+    <string name="weather_9">Chuviscos</string>
+    <string name="weather_10">Chuva Congelante</string>
+    <string name="weather_11">Aguaceiros</string>
+    <string name="weather_12">Queda de neve</string>
+    <string name="weather_13">Queda de neve ligeira</string>
+    <string name="weather_14">Tempestade de Neve</string>
+    <string name="weather_15">Neve</string>
+    <string name="weather_16">Saraiva</string>
+    <string name="weather_17">Granizo</string>
+    <string name="weather_18">Poeira</string>
+    <string name="weather_19">Nevoeiro</string>
+    <string name="weather_20">Neblina</string>
+    <string name="weather_21">Fumarento</string>
+    <string name="weather_22">Ventos Fortes</string>
+    <string name="weather_23">Ventoso</string>
+    <string name="weather_24">Frio</string>
+    <string name="weather_25">Nublado</string>
+    <string name="weather_26">Muito Nublado</string>
+    <string name="weather_27">Muito Nublado</string>
+    <string name="weather_28">Parcialmente Nublado</string>
+    <string name="weather_29">Parcialmente Nublado</string>
+    <string name="weather_30">Limpo</string>
+    <string name="weather_31">Ensolarado</string>
+    <string name="weather_32">Razoável</string>
+    <string name="weather_33">Razoável</string>
+    <string name="weather_34">Misto de Chuva e Saraiva</string>
+    <string name="weather_35">Quente</string>
+    <string name="weather_36">Trovoadas Isoladas</string>
+    <string name="weather_37">Trovoadas Dispersas</string>
+    <string name="weather_38">Aguaceiros Dispersos</string>
+    <string name="weather_39">Neve Forte</string>
+    <string name="weather_40">Chuviscos de Neve Dispersa</string>
+    <string name="weather_41">Parcialmente Nublado</string>
+    <string name="weather_42">Chuvas com Trovoadas</string>
+    <string name="weather_43">Chuva de Neve</string>
+    <string name="weather_44">Chuvas com Trovoadas Isoladas</string>
 </resources>

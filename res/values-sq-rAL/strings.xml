@@ -16,59 +16,50 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Ofruesi i Motit</string>
-  <!-- Weather - Weather codes -->
-  <string name="weather_0">Tornado</string>
-  <string name="weather_1">Stuhi tropikale</string>
-  <string name="weather_2">Uragan</string>
-  <string name="weather_3">Stuhira të fuqishme</string>
-  <string name="weather_4">Stuhira</string>
-  <string name="weather_5">Përzjerje shiu dhe bore</string>
-  <string name="weather_6">Shi i përzierë me borë të shkrirë</string>
-  <string name="weather_7">Borë e përzierë me borë të shkrirë</string>
-  <string name="weather_8">Shi i imët dhe i ngrirë</string>
-  <string name="weather_9">Shi i imët</string>
-  <string name="weather_10">Shi i ngrirë</string>
-  <string name="weather_11">Rreshje</string>
-  <string name="weather_12">Rreshje të lehta bore</string>
-  <string name="weather_13">Rreshje të lehta bore</string>
-  <string name="weather_14">Borë me erë</string>
-  <string name="weather_15">Borë</string>
-  <string name="weather_16">Breshër</string>
-  <string name="weather_17">Borë e shkrirë</string>
-  <string name="weather_18">Pluhur</string>
-  <string name="weather_19">Me mjegull</string>
-  <string name="weather_20">Mjegull e dendur</string>
-  <string name="weather_21">E nxirë</string>
-  <string name="weather_22">Stuhi e vrullshme</string>
-  <string name="weather_23">Me erë</string>
-  <string name="weather_24">Ftohtë</string>
-  <string name="weather_25">Vranësirë</string>
-  <!-- Night -->
-  <string name="weather_26">Kryesisht me re</string>
-  <!-- Day -->
-  <string name="weather_27">Kryesisht me re</string>
-  <!-- Night -->
-  <string name="weather_28">Pjesërisht me re</string>
-  <!-- Day -->
-  <string name="weather_29">Pjesërisht me re</string>
-  <!-- Night -->
-  <string name="weather_30">E kthjellët</string>
-  <string name="weather_31">Me diell</string>
-  <!-- Night -->
-  <string name="weather_32">E hapur, me pak re</string>
-  <!-- Day -->
-  <string name="weather_33">E hapur, me pak re</string>
-  <string name="weather_34">Përzjerje shiu dhe breshëri</string>
-  <string name="weather_35">Nxehtë</string>
-  <string name="weather_36">Stuhi të izoluara</string>
-  <string name="weather_37">Stuhi të shpërndara</string>
-  <string name="weather_38">Rreshje të shpërndara</string>
-  <string name="weather_39">Borë e fortë</string>
-  <string name="weather_40">Rreshje bore të shpërndara</string>
-  <string name="weather_41">Pjesërisht me re</string>
-  <string name="weather_42">Stuhi dhe rreshje</string>
-  <string name="weather_43">Rreshje bore</string>
-  <string name="weather_44">Stuhi dhe rreshje të izoluara</string>
-  <!-- Forecast unavailable -->
+    <string name="app_name">Ofruesi i Motit</string>
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Stuhi tropikale</string>
+    <string name="weather_2">Uragan</string>
+    <string name="weather_3">Stuhira të fuqishme</string>
+    <string name="weather_4">Stuhira</string>
+    <string name="weather_5">Përzjerje shiu dhe bore</string>
+    <string name="weather_6">Shi i përzierë me borë të shkrirë</string>
+    <string name="weather_7">Borë e përzierë me borë të shkrirë</string>
+    <string name="weather_8">Shi i imët dhe i ngrirë</string>
+    <string name="weather_9">Shi i imët</string>
+    <string name="weather_10">Shi i ngrirë</string>
+    <string name="weather_11">Rreshje</string>
+    <string name="weather_12">Rreshje të lehta bore</string>
+    <string name="weather_13">Rreshje të lehta bore</string>
+    <string name="weather_14">Borë me erë</string>
+    <string name="weather_15">Borë</string>
+    <string name="weather_16">Breshër</string>
+    <string name="weather_17">Borë e shkrirë</string>
+    <string name="weather_18">Pluhur</string>
+    <string name="weather_19">Me mjegull</string>
+    <string name="weather_20">Mjegull e dendur</string>
+    <string name="weather_21">E nxirë</string>
+    <string name="weather_22">Stuhi e vrullshme</string>
+    <string name="weather_23">Me erë</string>
+    <string name="weather_24">Ftohtë</string>
+    <string name="weather_25">Vranësirë</string>
+    <string name="weather_26">Kryesisht me re</string>
+    <string name="weather_27">Kryesisht me re</string>
+    <string name="weather_28">Pjesërisht me re</string>
+    <string name="weather_29">Pjesërisht me re</string>
+    <string name="weather_30">E kthjellët</string>
+    <string name="weather_31">Me diell</string>
+    <string name="weather_32">E hapur, me pak re</string>
+    <string name="weather_33">E hapur, me pak re</string>
+    <string name="weather_34">Përzjerje shiu dhe breshëri</string>
+    <string name="weather_35">Nxehtë</string>
+    <string name="weather_36">Stuhi të izoluara</string>
+    <string name="weather_37">Stuhi të shpërndara</string>
+    <string name="weather_38">Rreshje të shpërndara</string>
+    <string name="weather_39">Borë e fortë</string>
+    <string name="weather_40">Rreshje bore të shpërndara</string>
+    <string name="weather_41">Pjesërisht me re</string>
+    <string name="weather_42">Stuhi dhe rreshje</string>
+    <string name="weather_43">Rreshje bore</string>
+    <string name="weather_44">Stuhi dhe rreshje të izoluara</string>
 </resources>
