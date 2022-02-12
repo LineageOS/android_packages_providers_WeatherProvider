@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2016 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Solaraiche na h-aimsire</string>
+    <string name="weather_0">Tornàdo</string>
+    <string name="weather_1">Stoirm thropaigeach</string>
+    <string name="weather_2">Huracan</string>
+    <string name="weather_3">Gailleannan troma</string>
+    <string name="weather_4">Gailleannan</string>
+    <string name="weather_5">Measgachadh de dh’uisge ’s sneachd</string>
+    <string name="weather_6">Measgachadh de dh’uisge ’s flin</string>
+    <string name="weather_7">Measgachadh de shneachd is flin</string>
+    <string name="weather_8">Ceòbhran a’ reòthadh</string>
+    <string name="weather_9">Ceòbhran</string>
+    <string name="weather_10">Uisge a’ reòthadh</string>
+    <string name="weather_11">Frasan</string>
+    <string name="weather_12">Bleideagan sneachda</string>
+    <string name="weather_13">Frasan sneachda aotrom</string>
+    <string name="weather_14">Cur is cathadh</string>
+    <string name="weather_15">Sneachd</string>
+    <string name="weather_16">Clachan-meallain</string>
+    <string name="weather_17">Flin</string>
+    <string name="weather_18">Duslach</string>
+    <string name="weather_19">Ceòthach</string>
+    <string name="weather_20">Sgeò</string>
+    <string name="weather_21">Toiteach</string>
+    <string name="weather_22">Rògach</string>
+    <string name="weather_23">Gaothach</string>
+    <string name="weather_24">Fuar</string>
+    <string name="weather_25">Neulach</string>
+    <string name="weather_26">Neulach sa mhòr-chuid</string>
+    <string name="weather_27">Neulach sa mhòr-chuid</string>
+    <string name="weather_28">Caran neulach</string>
+    <string name="weather_29">Caran neulach</string>
+    <string name="weather_30">Speur glan</string>
+    <string name="weather_31">Grianach</string>
+    <string name="weather_32">Chan eil dona</string>
+    <string name="weather_33">Chan eil dona</string>
+    <string name="weather_34">Measgachadh de dh’uisge ’s clachan-meallain</string>
+    <string name="weather_35">Teth</string>
+    <string name="weather_36">Corra gailleann</string>
+    <string name="weather_37">Gailleannan an-siud ’s an-seo</string>
+    <string name="weather_38">Frasan an-siud ’s an-seo</string>
+    <string name="weather_39">Sneachd trom</string>
+    <string name="weather_40">Frasan sneachda an-siud ’s an-seo</string>
+    <string name="weather_41">Caran neulach</string>
+    <string name="weather_42">Frasan is tàirneanach</string>
+    <string name="weather_43">Frasan sneachda</string>
+    <string name="weather_44">Corra fras is tàirneanach</string>
+</resources>
