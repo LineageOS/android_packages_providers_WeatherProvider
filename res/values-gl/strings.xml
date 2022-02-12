@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2016 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Fornecedor do tempo</string>
+    <string name="weather_0">Tornado</string>
+    <string name="weather_1">Tormenta tropical</string>
+    <string name="weather_2">Furacán</string>
+    <string name="weather_3">Fortes tronadas</string>
+    <string name="weather_4">Tronadas</string>
+    <string name="weather_5">Chuvia e sarabia</string>
+    <string name="weather_6">Choiva e auganeve</string>
+    <string name="weather_7">Neve e auganeve</string>
+    <string name="weather_8">Coriscada</string>
+    <string name="weather_9">Orballo</string>
+    <string name="weather_10">Chuvia conxelada</string>
+    <string name="weather_11">Chuvascos</string>
+    <string name="weather_12">Folerpadas</string>
+    <string name="weather_13">Nevaradas intermitentes débiles</string>
+    <string name="weather_14">Xistra</string>
+    <string name="weather_15">Neve</string>
+    <string name="weather_16">Sarabia</string>
+    <string name="weather_17">Auganeve</string>
+    <string name="weather_18">Poeira</string>
+    <string name="weather_19">Neboento</string>
+    <string name="weather_20">Bretemoso</string>
+    <string name="weather_21">Afumado</string>
+    <string name="weather_22">Borrascoso</string>
+    <string name="weather_23">Ventoso</string>
+    <string name="weather_24">Frío</string>
+    <string name="weather_25">Nubrado</string>
+    <string name="weather_26">Maiormente nubrado</string>
+    <string name="weather_27">Maiormente nubrado</string>
+    <string name="weather_28">Parcialmente nubrado</string>
+    <string name="weather_29">Parcialmente nubrado</string>
+    <string name="weather_30">Despexado</string>
+    <string name="weather_31">Solleiro</string>
+    <string name="weather_32">Cuberto</string>
+    <string name="weather_33">Cuberto</string>
+    <string name="weather_34">Chuvia e sarabia</string>
+    <string name="weather_35">Calor</string>
+    <string name="weather_36">Tronos illados</string>
+    <string name="weather_37">Tronos ocasionais</string>
+    <string name="weather_38">Chuvias ocasionais</string>
+    <string name="weather_39">Forte nevarada</string>
+    <string name="weather_40">Fortes nevaradas ocasionais</string>
+    <string name="weather_41">Parcialm. nublado</string>
+    <string name="weather_42">Tormentas</string>
+    <string name="weather_43">Neve abundante</string>
+    <string name="weather_44">Tormentas illadas</string>
+</resources>
